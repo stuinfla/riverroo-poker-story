@@ -1,12 +1,27 @@
-Presentation focus: full poker decisions, original ten attributes, and RuvNet tooling. The elementary preflop experiment belongs only in the technical appendix; do not present its score as poker strength.
-RiverRoo · v1.4.0 · October 23, 2026
-Purpose: show what the RuvNet tools let us build through a poker learner's journey.
-1. Introduce the naive agent and the RuvNet toolchain.
-2. iPhone intent → RuOS working lab → Ruflo coordination.
-3. Define the original ten abilities. No numerical ten-attribute scores were recorded. Show evidence and unanswered tests.
-4. Practice reaches a ceiling: 1,020,000 episodes, still29states and fold/call. Activity is not proof of strength.
-5. RuvNet Brain source research finds rUv's poker-darwin and local-logic agents. Integration is unfinished.
-6. A separate RuVector reference-case experiment retrieves conditional hand/opponent information.
-7. Engineering checks expose and repair opponent-seat mapping.
-8. Corrected restricted comparison: baseline48.45 versus conditional50.825bb/100; difference2.375,95%interval0.9599to3.7901.16,000paireddeals. Direct/vector decisions match. This is not full-game strength or ten-dimensional improvement.
-Full-street prototype:12RuOS engine tests and browser whole-hand checks passed. Strong trained policy and poker-darwin integration remain unfinished.
+RiverRoo — self-guided storyline, version 1.5.0
+
+Permanent public link: https://riverroo-poker-story.vercel.app/
+
+The public page is written to work without a presenter. Allow about eight minutes. Scroll or use the arrows, select an ability for its evidence, and pause motion if preferred.
+
+The story
+1. Meet an experimental poker agent with no strategy.
+2. Start with a research question: what should a capable player learn?
+3. Turn the recorded ten-ability framework into an inspectable curriculum.
+4. Build a full-hand environment with legal decisions and showdown.
+5. Search RuvNet Brain and discover rUv’s existing poker implementations.
+6. Distinguish remembering experience from learning through feedback.
+7. Compare two full-hand heuristic settings on unseen test runs.
+8. Explain the integrations and stronger tests that come next.
+
+Evidence boundaries
+The original completed Ruflo research report was not recovered. The ten areas are documented in a 9:04 AM build prompt and the 10 AM engineering checkpoint.
+
+The new result compares two settings of the newer full-hand heuristic. It is not a continuous learning curve from the original uninformed agent. Five settings each played 128 training hands, for 640 total. A separate test used 256 seeds from both seats, or 512 hands per policy.
+
+The default averaged 4.64746 simulated big blinds per hand; the selected setting averaged 7.46777. The paired gain was 2.82031, with a normal-approximation 95% interval of [1.14400, 4.49662]. This result applies to one weak novice opponent only.
+
+The native RVF file stored 641 vectors and returned the selected-policy marker after reopening. The explicit selection code learned parameters; an independent performance benefit from vector retrieval was not measured. No overall ten-ability improvement is claimed. Poker-darwin integration remains unfinished. The playable browser demo uses its default setting.
+
+Method and raw receipts: https://riverroo-poker-story.vercel.app/evidence/learning-proof.html
+Earlier elementary experiments remain in the technical appendix.
