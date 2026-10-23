@@ -1,33 +1,12 @@
-RIVERROO — PRESENTER NOTES
-Version 1.0.0 | 23 October 2026
-Suggested running time: 6–8 minutes.
-
-1. THE QUESTION
-We wanted to build a poker bot that could make decisions, learn from experience, and improve. Poker is an unusually useful test: the rules are precise, but the opponent's cards and intentions are hidden. The goal was a complete bot. What we can demonstrate today is a narrower research prototype, not a completed full-game competitor.
-
-2. THE DECISION
-Use the illustrative hand to explain the problem. A strong-looking hand alone is not enough: stack size, pot odds and an opponent's likely range matter. The visual hand is a teaching example, not a replay of a measured policy decision. A big blind is the game's standard betting unit, not a dollar amount.
-
-3. WHAT WE BUILT
-The current experiment is two-player Texas Hold'em with 10-big-blind stacks. Decisions are restricted to before the flop: fold or shove; the opponent folds or calls. Stacks reset every hand. There is no rake. This lets us isolate one decision problem, but does not demonstrate full poker competence.
-
-4. MEMORY AS A HYPOTHESIS
-There are 169 distinct starting-hand classes when equivalent suits are grouped. Offline case construction crossed these with 14 synthetic range profiles, giving 2,366 strategic cases. The RuVector integration retrieves those cases. The scientific question was whether that extra information improves decisions relative to the simpler uniform-equity baseline. Case generation is not proof of online learning or human-level skill.
-
-5. A FAIR COMPARISON
-The final test used the same shuffled deals for each strategy and played both seats. It covered four synthetic opponent types, 16,000 paired deal records and 32,000 hand-side evaluations. Frozen seeds separated this test from development. Public scouting was modeled as free; this is a limitation. Confidence intervals measure uncertainty within this experiment, not performance against every possible player.
-
-6. THE RESULT
-The simpler baseline earned 0.46956 big blinds per hand across equally weighted synthetic opponents. The memory policy earned 0.43975. The difference is approximately minus 2.98 big blinds per 100 hands. Its reported 95% paired confidence interval is minus 4.95 to minus 1.01 big blinds per 100 hands. The entire interval is negative. The difference came from the strength-rule opponent; the strategies tied against the other three. Both positive absolute returns are against these synthetic opponents, not evidence of real-money profitability.
-
-7. WHAT WORKED — AND WHAT DID NOT
-The report records 1,352 correct retrieval checks out of 1,352, and no action disagreement between vector retrieval and direct lookup. That establishes retrieval correctness in the tested corpus. It does not establish better strategy. The report also records 11 software checks and 6,000 differential hand-rank comparisons. The failure points toward case estimates or policy; its specific cause remains a hypothesis until audited.
-
-8. THE HONEST NEXT STEP
-Keep the research baseline. Do not promote the candidate strategy. Audit changed decisions, separate opponent inference from estimation error, and evaluate corrections on fresh held-out seeds. The original product still requires full betting rounds, playable interaction, measured training improvements and wider independent opponents. The lesson is not that memory is useless; it is that memory must earn its place through measured outcomes.
-
-SOURCE
-The included evidence/REPORT.md is the original 23 October 2026 11:56 EDT checkpoint. Historical benchmark claims are attributed to that report. Check evidence/current-test-receipt.txt, when included, for checks rerun during presentation recovery.
-
-CONTROLS
-Use Previous/Next or the arrow keys. Pause motion if preferred. For offline presenting, unzip the backup and open index.html. The deck's styling and interactions are embedded; evidence and notes are included beside it. The backup download link itself requires the hosted copy.
+Presentation focus: full poker decisions, original ten attributes, and RuvNet tooling. The elementary preflop experiment belongs only in the technical appendix; do not present its score as poker strength.
+RiverRoo · v1.3.1 · October 23, 2026
+Purpose: show what the RuvNet tools let us build through a poker learner's journey.
+1. Introduce the naive agent and the RuvNet toolchain.
+2. iPhone intent → RuOS working lab → Ruflo coordination.
+3. Define the original ten abilities. No numerical ten-attribute scores were recorded. Show evidence and unanswered tests.
+4. Practice reaches a ceiling: 1,020,000 episodes, still29states and fold/call. Activity is not proof of strength.
+5. RuvNet Brain source research finds rUv's poker-darwin and local-logic agents. Integration is unfinished.
+6. A separate RuVector reference-case experiment retrieves conditional hand/opponent information.
+7. Engineering checks expose and repair opponent-seat mapping.
+8. Corrected restricted comparison: baseline48.45 versus conditional50.825bb/100; difference2.375,95%interval0.9599to3.7901.16,000paireddeals. Direct/vector decisions match. This is not full-game strength or ten-dimensional improvement.
+Full-street prototype:12RuOS engine tests and browser whole-hand checks passed. Strong trained policy and poker-darwin integration remain unfinished.

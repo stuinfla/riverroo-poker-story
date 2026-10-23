@@ -1,9 +1,7 @@
-# RiverRoo — The Poker Experiment
+# RiverRoo — RuvNet learning journey
 
-An animated, self-contained presentation of the RiverRoo prototype and its reported final holdout results. Version 1.0.0.
+Version1.3.1. Public story: https://riverroo-poker-story.vercel.app/
 
-Open `public/index.html` locally, or serve `public/`. No build or dependencies required. The ZIP is an offline presentation backup, not a complete reproduction of the training environment.
+Eight scrolling chapters explain the original ten poker attributes, RuOS lab, Ruflo coordination, source discovery through RuvNet Brain, rUv poker-darwin and local-logic research, and the separate RuVector reference experiment. Full-street play-money prototype: /play/. Full-game playing strength and ten-attribute improvements remain unmeasured. Elementary preflop results are confined to the technical appendix.
 
-The current prototype is limited to heads-up preflop shove/fold Hold'em. It is not a completed full-rule poker bot. The candidate memory policy underperformed the simpler research baseline; the presentation preserves that result.
-
-Original checkpoint evidence and presenter notes are included. Fresh test receipts are labeled separately from historical reports.
+Source provenance for original ten: .receipts/original-ten-attributes.md. Story contract: STORY-CONTRACT.md. Offline download: public/RiverRoo-Presentation.zip.

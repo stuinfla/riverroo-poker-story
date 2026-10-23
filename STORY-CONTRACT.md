@@ -1,0 +1,7 @@
+Updated: 2026-10-23 EDT | Version 1.0.0
+Created: 2026-10-23 EDT
+
+# RiverRoo story contract
+The purpose is to demonstrate what can be built with RuvNet tools through RiverRoo's journey. Every chapter must connect a problem, a tool/action, and a visible change. Start with the naive agent, iPhone intent, RuOS lab and Ruflo coordination; show practice and its ceiling; research existing rUv poker implementations through RuvNet Brain; show the separate RuVector reference-case experiment; verify results; finish with an honest working prototype and remaining integration. Do not turn the primary narrative into a benchmark report, mascot biography, or logo list. Do not imply poker-darwin integration or expert strength without execution evidence.
+
+Owner correction: elementary preflop results and million-hand counters are not presentation achievements. Keep them in the technical appendix. Main story centers full hands, the ten attributes, the tools, and honest full-game development evidence.
