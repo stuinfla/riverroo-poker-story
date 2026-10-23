@@ -1,5 +1,5 @@
 Presentation focus: full poker decisions, original ten attributes, and RuvNet tooling. The elementary preflop experiment belongs only in the technical appendix; do not present its score as poker strength.
-RiverRoo · v1.3.1 · October 23, 2026
+RiverRoo · v1.3.2 · October 23, 2026
 Purpose: show what the RuvNet tools let us build through a poker learner's journey.
 1. Introduce the naive agent and the RuvNet toolchain.
 2. iPhone intent → RuOS working lab → Ruflo coordination.
