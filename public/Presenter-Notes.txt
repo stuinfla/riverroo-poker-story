@@ -1,4 +1,4 @@
-RiverRoo — self-guided storyline, version 1.5.0
+RiverRoo — self-guided storyline, version 1.6.0
 
 Permanent public link: https://riverroo-poker-story.vercel.app/
 
@@ -25,3 +25,5 @@ The native RVF file stored 641 vectors and returned the selected-policy marker a
 
 Method and raw receipts: https://riverroo-poker-story.vercel.app/evidence/learning-proof.html
 Earlier elementary experiments remain in the technical appendix.
+
+Start-your-own workflow: open the beginning of the story and expand Start here. Install/connect ruOS, select it in a ChatGPT conversation, then copy the original challenge. The screenshot already named poker-darwin; the story now accurately presents later research as inspection of that supplied foundation.

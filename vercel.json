@@ -1,1 +1,1 @@
-{"version":2,"outputDirectory":"public","headers":[{"source":"/(.*)","headers":[{"key":"X-Content-Type-Options","value":"nosniff"}]}]}
+{"version":2,"outputDirectory":"public","headers":[{"source":"/(.*)","headers":[{"key":"X-Content-Type-Options","value":"nosniff"}]},{"source":"/Ruv-Original-Prompt.txt","headers":[{"key":"Content-Disposition","value":"attachment; filename=\"Ruv-Original-Prompt.txt\""}]}]}

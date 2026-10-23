@@ -1,0 +1,19 @@
+{
+  "sourceArchive": "https://riverroo-learning-journey.vercel.app/downloads/RiverRoo_Reproducibility_Kit.zip",
+  "artifacts": {
+    "RiverRoo_Reproducibility_Kit.zip": {
+      "bytes": 898880,
+      "sha256": "ccfbebb2896f7c521c0b57653d989af31bf1844156d001fea5635b9abe55c5cb"
+    },
+    "original-screenshot.png": {
+      "bytes": 257643,
+      "sha256": "33032d27ed29c019e40cdc558b7c651e82ea6a6fb1071ca51c148cd5daff203a"
+    },
+    "RiverRoo_Original_Prompt.txt": {
+      "bytes": 360,
+      "sha256": "154f743e74b2e009066f516de525b05830c0c34f0b5ff01d0abfc00e7064283c"
+    }
+  },
+  "transcriptionNote": "Visible wording preserved; app mentions rendered as labels. Original source image inspected directly.",
+  "chronologyCorrection": "poker-darwin was explicitly named in the original prompt, not first discovered later."
+}

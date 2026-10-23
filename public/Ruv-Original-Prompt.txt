@@ -1,0 +1,1 @@
+Can we use the https://github.com/ruvnet/metaharness/tree/main/crates/poker-darwin packages to play some online poker games (practice mode/no money) and see if we can create model that learns in real time and self improves. Lets create an interactive game ui using the embedded ruvector wasm in cool game style that support mult-players RuFlo Federation Sites
