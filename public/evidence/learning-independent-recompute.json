@@ -1,0 +1,21 @@
+{
+  "pairedSeedClusters": 256,
+  "handsPerPolicy": 512,
+  "baselineBbPerHand": 4.6474609375,
+  "candidateBbPerHand": 7.4677734375,
+  "deltaBbPerHand": 2.8203125,
+  "normal95Ci": [
+    1.1440025581744697,
+    4.49662244182553
+  ],
+  "trainTestDisjoint": true,
+  "trainingSelectionRecomputed": [
+    5.5546875,
+    6.5625,
+    1.73046875,
+    7.16015625,
+    2.71875
+  ],
+  "rvfSha256": "7248cd37cd31e08d88b59faeda7c804f9d33644cfb0cf0efa08a2a84fdfb9fe5",
+  "scope": "One seeded novice opponent; parameter calibration, not broad poker skill or isolated vector retrieval benefit."
+}

@@ -1,0 +1,16 @@
+{
+  "selected": 3,
+  "means": [
+    5.5546875,
+    6.5625,
+    1.73046875,
+    7.16015625,
+    2.71875
+  ],
+  "tuning": {
+    "aggressionThreshold": 0.6,
+    "callMargin": 0.12,
+    "potFraction": 0.9
+  },
+  "frozenBeforeHoldout": true
+}

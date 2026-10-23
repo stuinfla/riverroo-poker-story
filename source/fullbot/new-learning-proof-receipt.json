@@ -1,0 +1,6196 @@
+{
+  "startedAt": "2026-10-23T17:48:29.974Z",
+  "finishedAt": "2026-10-23T17:48:44.056Z",
+  "elapsedMs": 14004,
+  "preregistered": {
+    "createdAt": "2026-10-23T17:48:29.974Z",
+    "trainSeeds": [
+      310001,
+      310002,
+      310003,
+      310004,
+      310005,
+      310006,
+      310007,
+      310008,
+      310009,
+      310010,
+      310011,
+      310012,
+      310013,
+      310014,
+      310015,
+      310016,
+      310017,
+      310018,
+      310019,
+      310020,
+      310021,
+      310022,
+      310023,
+      310024,
+      310025,
+      310026,
+      310027,
+      310028,
+      310029,
+      310030,
+      310031,
+      310032,
+      310033,
+      310034,
+      310035,
+      310036,
+      310037,
+      310038,
+      310039,
+      310040,
+      310041,
+      310042,
+      310043,
+      310044,
+      310045,
+      310046,
+      310047,
+      310048,
+      310049,
+      310050,
+      310051,
+      310052,
+      310053,
+      310054,
+      310055,
+      310056,
+      310057,
+      310058,
+      310059,
+      310060,
+      310061,
+      310062,
+      310063,
+      310064
+    ],
+    "testSeeds": [
+      870001,
+      870002,
+      870003,
+      870004,
+      870005,
+      870006,
+      870007,
+      870008,
+      870009,
+      870010,
+      870011,
+      870012,
+      870013,
+      870014,
+      870015,
+      870016,
+      870017,
+      870018,
+      870019,
+      870020,
+      870021,
+      870022,
+      870023,
+      870024,
+      870025,
+      870026,
+      870027,
+      870028,
+      870029,
+      870030,
+      870031,
+      870032,
+      870033,
+      870034,
+      870035,
+      870036,
+      870037,
+      870038,
+      870039,
+      870040,
+      870041,
+      870042,
+      870043,
+      870044,
+      870045,
+      870046,
+      870047,
+      870048,
+      870049,
+      870050,
+      870051,
+      870052,
+      870053,
+      870054,
+      870055,
+      870056,
+      870057,
+      870058,
+      870059,
+      870060,
+      870061,
+      870062,
+      870063,
+      870064,
+      870065,
+      870066,
+      870067,
+      870068,
+      870069,
+      870070,
+      870071,
+      870072,
+      870073,
+      870074,
+      870075,
+      870076,
+      870077,
+      870078,
+      870079,
+      870080,
+      870081,
+      870082,
+      870083,
+      870084,
+      870085,
+      870086,
+      870087,
+      870088,
+      870089,
+      870090,
+      870091,
+      870092,
+      870093,
+      870094,
+      870095,
+      870096,
+      870097,
+      870098,
+      870099,
+      870100,
+      870101,
+      870102,
+      870103,
+      870104,
+      870105,
+      870106,
+      870107,
+      870108,
+      870109,
+      870110,
+      870111,
+      870112,
+      870113,
+      870114,
+      870115,
+      870116,
+      870117,
+      870118,
+      870119,
+      870120,
+      870121,
+      870122,
+      870123,
+      870124,
+      870125,
+      870126,
+      870127,
+      870128,
+      870129,
+      870130,
+      870131,
+      870132,
+      870133,
+      870134,
+      870135,
+      870136,
+      870137,
+      870138,
+      870139,
+      870140,
+      870141,
+      870142,
+      870143,
+      870144,
+      870145,
+      870146,
+      870147,
+      870148,
+      870149,
+      870150,
+      870151,
+      870152,
+      870153,
+      870154,
+      870155,
+      870156,
+      870157,
+      870158,
+      870159,
+      870160,
+      870161,
+      870162,
+      870163,
+      870164,
+      870165,
+      870166,
+      870167,
+      870168,
+      870169,
+      870170,
+      870171,
+      870172,
+      870173,
+      870174,
+      870175,
+      870176,
+      870177,
+      870178,
+      870179,
+      870180,
+      870181,
+      870182,
+      870183,
+      870184,
+      870185,
+      870186,
+      870187,
+      870188,
+      870189,
+      870190,
+      870191,
+      870192,
+      870193,
+      870194,
+      870195,
+      870196,
+      870197,
+      870198,
+      870199,
+      870200,
+      870201,
+      870202,
+      870203,
+      870204,
+      870205,
+      870206,
+      870207,
+      870208,
+      870209,
+      870210,
+      870211,
+      870212,
+      870213,
+      870214,
+      870215,
+      870216,
+      870217,
+      870218,
+      870219,
+      870220,
+      870221,
+      870222,
+      870223,
+      870224,
+      870225,
+      870226,
+      870227,
+      870228,
+      870229,
+      870230,
+      870231,
+      870232,
+      870233,
+      870234,
+      870235,
+      870236,
+      870237,
+      870238,
+      870239,
+      870240,
+      870241,
+      870242,
+      870243,
+      870244,
+      870245,
+      870246,
+      870247,
+      870248,
+      870249,
+      870250,
+      870251,
+      870252,
+      870253,
+      870254,
+      870255,
+      870256
+    ],
+    "samples": 60,
+    "candidates": [
+      {
+        "aggressionThreshold": 0.67,
+        "callMargin": 0.02,
+        "potFraction": 0.65
+      },
+      {
+        "aggressionThreshold": 0.55,
+        "callMargin": 0.08,
+        "potFraction": 1
+      },
+      {
+        "aggressionThreshold": 0.75,
+        "callMargin": 0,
+        "potFraction": 0.35
+      },
+      {
+        "aggressionThreshold": 0.6,
+        "callMargin": 0.12,
+        "potFraction": 0.9
+      },
+      {
+        "aggressionThreshold": 0.85,
+        "callMargin": 0.04,
+        "potFraction": 1.2
+      }
+    ],
+    "selection": "highest mean training profit over both seats; earliest index breaks ties; holdout evaluated once after selection",
+    "unit": "big blinds per hand; each seed evaluated from both seats; fresh 100bb stacks every hand",
+    "disclaimer": "Explicit feedback selection loop learns tunings. RVF remembers numeric experience and retrieves policy ID; RVF is not claimed to optimize parameters intrinsically."
+  },
+  "trainingMeansBbPerHand": [
+    5.5546875,
+    6.5625,
+    1.73046875,
+    7.16015625,
+    2.71875
+  ],
+  "selectedIndex": 3,
+  "selectedTuning": {
+    "aggressionThreshold": 0.6,
+    "callMargin": 0.12,
+    "potFraction": 0.9
+  },
+  "holdoutCount": 256,
+  "pairedHandsPerPolicy": 512,
+  "baselineBbPerHand": 4.6474609375,
+  "candidateBbPerHand": 7.4677734375,
+  "deltaBbPerHand": 2.8203125,
+  "normalApprox95Ci": [
+    1.1440025581744697,
+    4.49662244182553
+  ],
+  "standardError": 0.8552601744007807,
+  "improvementEstablished": true,
+  "streetCounts": {
+    "preflop": 3576,
+    "flop": 3230,
+    "turn": 2799,
+    "river": 2311
+  },
+  "storeProof": {
+    "success": true,
+    "path": "/home/ruv/riverroo-full/new-learning-proof-experience.rvf",
+    "ingest": {
+      "accepted": 641,
+      "rejected": 0,
+      "epoch": 1
+    },
+    "retrieved": [
+      {
+        "id": "selected-policy-3",
+        "distance": 0
+      }
+    ],
+    "reopenedPolicyUsedForActualDecision": {
+      "action": {
+        "type": "call"
+      },
+      "mode": "expert",
+      "equity": 0.4583333333333333,
+      "potOdds": 0.25,
+      "samples": 60,
+      "tuning": {
+        "aggressionThreshold": 0.6,
+        "callMargin": 0.12,
+        "potFraction": 0.9
+      },
+      "reason": "Public-card Monte Carlo equity and pot odds; no GTO claim"
+    },
+    "bytes": 18550,
+    "sha256": "7248cd37cd31e08d88b59faeda7c804f9d33644cfb0cf0efa08a2a84fdfb9fe5"
+  },
+  "holdout": [
+    {
+      "seed": 870001,
+      "baseline": 52,
+      "candidate": 16.5
+    },
+    {
+      "seed": 870002,
+      "baseline": 5,
+      "candidate": 6.5
+    },
+    {
+      "seed": 870003,
+      "baseline": 47.5,
+      "candidate": 47.5
+    },
+    {
+      "seed": 870004,
+      "baseline": 1.25,
+      "candidate": 1.25
+    },
+    {
+      "seed": 870005,
+      "baseline": 1,
+      "candidate": 1
+    },
+    {
+      "seed": 870006,
+      "baseline": 2,
+      "candidate": 2
+    },
+    {
+      "seed": 870007,
+      "baseline": 3.75,
+      "candidate": 4.5
+    },
+    {
+      "seed": 870008,
+      "baseline": -1.25,
+      "candidate": -1.25
+    },
+    {
+      "seed": 870009,
+      "baseline": 0,
+      "candidate": 0
+    },
+    {
+      "seed": 870010,
+      "baseline": 12.25,
+      "candidate": 2.5
+    },
+    {
+      "seed": 870011,
+      "baseline": 48,
+      "candidate": 48
+    },
+    {
+      "seed": 870012,
+      "baseline": -1,
+      "candidate": -1.5
+    },
+    {
+      "seed": 870013,
+      "baseline": -1.25,
+      "candidate": -1.25
+    },
+    {
+      "seed": 870014,
+      "baseline": 0.5,
+      "candidate": 4
+    },
+    {
+      "seed": 870015,
+      "baseline": 1.75,
+      "candidate": 0.75
+    },
+    {
+      "seed": 870016,
+      "baseline": -1.5,
+      "candidate": 3.5
+    },
+    {
+      "seed": 870017,
+      "baseline": 2.75,
+      "candidate": 50.25
+    },
+    {
+      "seed": 870018,
+      "baseline": -1.25,
+      "candidate": -1.25
+    },
+    {
+      "seed": 870019,
+      "baseline": 0.5,
+      "candidate": 0.5
+    },
+    {
+      "seed": 870020,
+      "baseline": 8.5,
+      "candidate": 13.5
+    },
+    {
+      "seed": 870021,
+      "baseline": 25.5,
+      "candidate": 48.5
+    },
+    {
+      "seed": 870022,
+      "baseline": 16.75,
+      "candidate": -1
+    },
+    {
+      "seed": 870023,
+      "baseline": -1.5,
+      "candidate": -1.5
+    },
+    {
+      "seed": 870024,
+      "baseline": 0,
+      "candidate": 0
+    },
+    {
+      "seed": 870025,
+      "baseline": 1.25,
+      "candidate": 1.25
+    },
+    {
+      "seed": 870026,
+      "baseline": -0.75,
+      "candidate": -0.75
+    },
+    {
+      "seed": 870027,
+      "baseline": 1,
+      "candidate": 0
+    },
+    {
+      "seed": 870028,
+      "baseline": -0.5,
+      "candidate": -0.5
+    },
+    {
+      "seed": 870029,
+      "baseline": -0.5,
+      "candidate": 0
+    },
+    {
+      "seed": 870030,
+      "baseline": 1,
+      "candidate": 11
+    },
+    {
+      "seed": 870031,
+      "baseline": 1,
+      "candidate": 3.5
+    },
+    {
+      "seed": 870032,
+      "baseline": 27.25,
+      "candidate": 47
+    },
+    {
+      "seed": 870033,
+      "baseline": 0.5,
+      "candidate": -9
+    },
+    {
+      "seed": 870034,
+      "baseline": -0.75,
+      "candidate": -0.5
+    },
+    {
+      "seed": 870035,
+      "baseline": 0,
+      "candidate": 2
+    },
+    {
+      "seed": 870036,
+      "baseline": 49.5,
+      "candidate": 32
+    },
+    {
+      "seed": 870037,
+      "baseline": 2.75,
+      "candidate": 1.25
+    },
+    {
+      "seed": 870038,
+      "baseline": -1.25,
+      "candidate": -1.25
+    },
+    {
+      "seed": 870039,
+      "baseline": -0.75,
+      "candidate": -1.25
+    },
+    {
+      "seed": 870040,
+      "baseline": 9.5,
+      "candidate": 15
+    },
+    {
+      "seed": 870041,
+      "baseline": 49.5,
+      "candidate": 43
+    },
+    {
+      "seed": 870042,
+      "baseline": 0.5,
+      "candidate": 0.5
+    },
+    {
+      "seed": 870043,
+      "baseline": 0.75,
+      "candidate": 1.75
+    },
+    {
+      "seed": 870044,
+      "baseline": 1,
+      "candidate": 0
+    },
+    {
+      "seed": 870045,
+      "baseline": 0,
+      "candidate": 0
+    },
+    {
+      "seed": 870046,
+      "baseline": -0.5,
+      "candidate": -0.5
+    },
+    {
+      "seed": 870047,
+      "baseline": -6,
+      "candidate": 0
+    },
+    {
+      "seed": 870048,
+      "baseline": 32.75,
+      "candidate": 50.25
+    },
+    {
+      "seed": 870049,
+      "baseline": 0.5,
+      "candidate": 0.5
+    },
+    {
+      "seed": 870050,
+      "baseline": 1,
+      "candidate": 1
+    },
+    {
+      "seed": 870051,
+      "baseline": 0,
+      "candidate": 0
+    },
+    {
+      "seed": 870052,
+      "baseline": 0,
+      "candidate": 0.5
+    },
+    {
+      "seed": 870053,
+      "baseline": 7.75,
+      "candidate": 11.75
+    },
+    {
+      "seed": 870054,
+      "baseline": 0,
+      "candidate": 5
+    },
+    {
+      "seed": 870055,
+      "baseline": 1.75,
+      "candidate": 0.75
+    },
+    {
+      "seed": 870056,
+      "baseline": -0.25,
+      "candidate": -0.25
+    },
+    {
+      "seed": 870057,
+      "baseline": 2,
+      "candidate": 0
+    },
+    {
+      "seed": 870058,
+      "baseline": 2,
+      "candidate": 2.5
+    },
+    {
+      "seed": 870059,
+      "baseline": -1.25,
+      "candidate": -1.25
+    },
+    {
+      "seed": 870060,
+      "baseline": 0,
+      "candidate": -1
+    },
+    {
+      "seed": 870061,
+      "baseline": 34.25,
+      "candidate": 44.5
+    },
+    {
+      "seed": 870062,
+      "baseline": -0.5,
+      "candidate": 12.5
+    },
+    {
+      "seed": 870063,
+      "baseline": 19,
+      "candidate": 34.5
+    },
+    {
+      "seed": 870064,
+      "baseline": 17.5,
+      "candidate": 6.5
+    },
+    {
+      "seed": 870065,
+      "baseline": 0,
+      "candidate": 2.5
+    },
+    {
+      "seed": 870066,
+      "baseline": -0.25,
+      "candidate": 0
+    },
+    {
+      "seed": 870067,
+      "baseline": 54,
+      "candidate": 55
+    },
+    {
+      "seed": 870068,
+      "baseline": -0.5,
+      "candidate": -1
+    },
+    {
+      "seed": 870069,
+      "baseline": 0,
+      "candidate": 2
+    },
+    {
+      "seed": 870070,
+      "baseline": 1,
+      "candidate": 1.5
+    },
+    {
+      "seed": 870071,
+      "baseline": 0,
+      "candidate": 0
+    },
+    {
+      "seed": 870072,
+      "baseline": 1.25,
+      "candidate": 2.25
+    },
+    {
+      "seed": 870073,
+      "baseline": 0.25,
+      "candidate": 0.25
+    },
+    {
+      "seed": 870074,
+      "baseline": 2.5,
+      "candidate": 2.5
+    },
+    {
+      "seed": 870075,
+      "baseline": -1.25,
+      "candidate": -1.25
+    },
+    {
+      "seed": 870076,
+      "baseline": -0.75,
+      "candidate": -0.5
+    },
+    {
+      "seed": 870077,
+      "baseline": -1.75,
+      "candidate": -1.75
+    },
+    {
+      "seed": 870078,
+      "baseline": 0,
+      "candidate": 0
+    },
+    {
+      "seed": 870079,
+      "baseline": -1,
+      "candidate": -1
+    },
+    {
+      "seed": 870080,
+      "baseline": 0,
+      "candidate": 0
+    },
+    {
+      "seed": 870081,
+      "baseline": 1.75,
+      "candidate": 1.75
+    },
+    {
+      "seed": 870082,
+      "baseline": -1.5,
+      "candidate": -1.5
+    },
+    {
+      "seed": 870083,
+      "baseline": 1.25,
+      "candidate": 1.25
+    },
+    {
+      "seed": 870084,
+      "baseline": 3.75,
+      "candidate": 5
+    },
+    {
+      "seed": 870085,
+      "baseline": 0,
+      "candidate": 0
+    },
+    {
+      "seed": 870086,
+      "baseline": 30.25,
+      "candidate": 50.25
+    },
+    {
+      "seed": 870087,
+      "baseline": -1,
+      "candidate": 0
+    },
+    {
+      "seed": 870088,
+      "baseline": 20.5,
+      "candidate": 38.25
+    },
+    {
+      "seed": 870089,
+      "baseline": 0,
+      "candidate": 0
+    },
+    {
+      "seed": 870090,
+      "baseline": 4.25,
+      "candidate": 5
+    },
+    {
+      "seed": 870091,
+      "baseline": -0.5,
+      "candidate": -0.5
+    },
+    {
+      "seed": 870092,
+      "baseline": -1,
+      "candidate": 1
+    },
+    {
+      "seed": 870093,
+      "baseline": -6.5,
+      "candidate": 7.25
+    },
+    {
+      "seed": 870094,
+      "baseline": 0,
+      "candidate": -0.5
+    },
+    {
+      "seed": 870095,
+      "baseline": -1,
+      "candidate": -1
+    },
+    {
+      "seed": 870096,
+      "baseline": -1.75,
+      "candidate": -1.75
+    },
+    {
+      "seed": 870097,
+      "baseline": 12.75,
+      "candidate": 17.25
+    },
+    {
+      "seed": 870098,
+      "baseline": 0,
+      "candidate": -0.5
+    },
+    {
+      "seed": 870099,
+      "baseline": 1,
+      "candidate": -0.5
+    },
+    {
+      "seed": 870100,
+      "baseline": 1.5,
+      "candidate": 1.5
+    },
+    {
+      "seed": 870101,
+      "baseline": -1.25,
+      "candidate": -1.25
+    },
+    {
+      "seed": 870102,
+      "baseline": 1,
+      "candidate": 3
+    },
+    {
+      "seed": 870103,
+      "baseline": -1.25,
+      "candidate": 3.25
+    },
+    {
+      "seed": 870104,
+      "baseline": 0.25,
+      "candidate": 0
+    },
+    {
+      "seed": 870105,
+      "baseline": -2.25,
+      "candidate": -2.25
+    },
+    {
+      "seed": 870106,
+      "baseline": 1,
+      "candidate": 1
+    },
+    {
+      "seed": 870107,
+      "baseline": 1.75,
+      "candidate": 1.25
+    },
+    {
+      "seed": 870108,
+      "baseline": 1.75,
+      "candidate": 1.75
+    },
+    {
+      "seed": 870109,
+      "baseline": -0.25,
+      "candidate": 1.25
+    },
+    {
+      "seed": 870110,
+      "baseline": 1.75,
+      "candidate": 1.75
+    },
+    {
+      "seed": 870111,
+      "baseline": 9,
+      "candidate": 48
+    },
+    {
+      "seed": 870112,
+      "baseline": -1.75,
+      "candidate": 1.25
+    },
+    {
+      "seed": 870113,
+      "baseline": 0,
+      "candidate": 3.5
+    },
+    {
+      "seed": 870114,
+      "baseline": -1.5,
+      "candidate": -1.5
+    },
+    {
+      "seed": 870115,
+      "baseline": 1.5,
+      "candidate": 12
+    },
+    {
+      "seed": 870116,
+      "baseline": 0,
+      "candidate": 39.25
+    },
+    {
+      "seed": 870117,
+      "baseline": 1.5,
+      "candidate": 1.5
+    },
+    {
+      "seed": 870118,
+      "baseline": 1.75,
+      "candidate": 4.5
+    },
+    {
+      "seed": 870119,
+      "baseline": 1.25,
+      "candidate": 1.25
+    },
+    {
+      "seed": 870120,
+      "baseline": 2.5,
+      "candidate": 49
+    },
+    {
+      "seed": 870121,
+      "baseline": 6,
+      "candidate": 4.5
+    },
+    {
+      "seed": 870122,
+      "baseline": 30,
+      "candidate": 49.5
+    },
+    {
+      "seed": 870123,
+      "baseline": 0.25,
+      "candidate": 1.25
+    },
+    {
+      "seed": 870124,
+      "baseline": 6.5,
+      "candidate": 7.5
+    },
+    {
+      "seed": 870125,
+      "baseline": 2.25,
+      "candidate": 2.25
+    },
+    {
+      "seed": 870126,
+      "baseline": 1.75,
+      "candidate": 1.75
+    },
+    {
+      "seed": 870127,
+      "baseline": -1.5,
+      "candidate": -1.5
+    },
+    {
+      "seed": 870128,
+      "baseline": -0.75,
+      "candidate": -0.75
+    },
+    {
+      "seed": 870129,
+      "baseline": -0.5,
+      "candidate": -0.5
+    },
+    {
+      "seed": 870130,
+      "baseline": 2.25,
+      "candidate": 8.25
+    },
+    {
+      "seed": 870131,
+      "baseline": 0.5,
+      "candidate": 0.5
+    },
+    {
+      "seed": 870132,
+      "baseline": 2,
+      "candidate": 2.25
+    },
+    {
+      "seed": 870133,
+      "baseline": 48.5,
+      "candidate": 45.75
+    },
+    {
+      "seed": 870134,
+      "baseline": -1.5,
+      "candidate": -5.75
+    },
+    {
+      "seed": 870135,
+      "baseline": -0.75,
+      "candidate": -0.5
+    },
+    {
+      "seed": 870136,
+      "baseline": -0.75,
+      "candidate": -0.75
+    },
+    {
+      "seed": 870137,
+      "baseline": 0,
+      "candidate": -9
+    },
+    {
+      "seed": 870138,
+      "baseline": 0.75,
+      "candidate": 0.75
+    },
+    {
+      "seed": 870139,
+      "baseline": -0.75,
+      "candidate": -0.75
+    },
+    {
+      "seed": 870140,
+      "baseline": 4,
+      "candidate": 50.5
+    },
+    {
+      "seed": 870141,
+      "baseline": -1.25,
+      "candidate": -1.25
+    },
+    {
+      "seed": 870142,
+      "baseline": 0.5,
+      "candidate": -1.5
+    },
+    {
+      "seed": 870143,
+      "baseline": -0.75,
+      "candidate": -0.75
+    },
+    {
+      "seed": 870144,
+      "baseline": 19.5,
+      "candidate": 34.75
+    },
+    {
+      "seed": 870145,
+      "baseline": 3.75,
+      "candidate": 0
+    },
+    {
+      "seed": 870146,
+      "baseline": -0.5,
+      "candidate": 0.5
+    },
+    {
+      "seed": 870147,
+      "baseline": 6.75,
+      "candidate": 44.75
+    },
+    {
+      "seed": 870148,
+      "baseline": -0.5,
+      "candidate": -0.5
+    },
+    {
+      "seed": 870149,
+      "baseline": 1.5,
+      "candidate": 2.75
+    },
+    {
+      "seed": 870150,
+      "baseline": 0,
+      "candidate": 0.5
+    },
+    {
+      "seed": 870151,
+      "baseline": 1,
+      "candidate": 1
+    },
+    {
+      "seed": 870152,
+      "baseline": 0,
+      "candidate": 0
+    },
+    {
+      "seed": 870153,
+      "baseline": -0.5,
+      "candidate": -0.5
+    },
+    {
+      "seed": 870154,
+      "baseline": 2.5,
+      "candidate": 2.75
+    },
+    {
+      "seed": 870155,
+      "baseline": 20,
+      "candidate": 34
+    },
+    {
+      "seed": 870156,
+      "baseline": 5.75,
+      "candidate": 50.5
+    },
+    {
+      "seed": 870157,
+      "baseline": 19.25,
+      "candidate": 48.5
+    },
+    {
+      "seed": 870158,
+      "baseline": 6.5,
+      "candidate": 8
+    },
+    {
+      "seed": 870159,
+      "baseline": 3.5,
+      "candidate": 4.5
+    },
+    {
+      "seed": 870160,
+      "baseline": 0,
+      "candidate": 0.5
+    },
+    {
+      "seed": 870161,
+      "baseline": 7.25,
+      "candidate": 12
+    },
+    {
+      "seed": 870162,
+      "baseline": 3.5,
+      "candidate": 14
+    },
+    {
+      "seed": 870163,
+      "baseline": 21,
+      "candidate": 39.25
+    },
+    {
+      "seed": 870164,
+      "baseline": 2,
+      "candidate": 1
+    },
+    {
+      "seed": 870165,
+      "baseline": 11.25,
+      "candidate": 16
+    },
+    {
+      "seed": 870166,
+      "baseline": 0,
+      "candidate": -0.5
+    },
+    {
+      "seed": 870167,
+      "baseline": 1.25,
+      "candidate": 1.5
+    },
+    {
+      "seed": 870168,
+      "baseline": 3,
+      "candidate": 4
+    },
+    {
+      "seed": 870169,
+      "baseline": 0.75,
+      "candidate": 0.75
+    },
+    {
+      "seed": 870170,
+      "baseline": 0.75,
+      "candidate": 0.75
+    },
+    {
+      "seed": 870171,
+      "baseline": 1.25,
+      "candidate": 1.25
+    },
+    {
+      "seed": 870172,
+      "baseline": -2.25,
+      "candidate": -2.25
+    },
+    {
+      "seed": 870173,
+      "baseline": 1.75,
+      "candidate": 3.25
+    },
+    {
+      "seed": 870174,
+      "baseline": 0,
+      "candidate": -6.5
+    },
+    {
+      "seed": 870175,
+      "baseline": 0.5,
+      "candidate": 0.5
+    },
+    {
+      "seed": 870176,
+      "baseline": 9.5,
+      "candidate": 12
+    },
+    {
+      "seed": 870177,
+      "baseline": 1.75,
+      "candidate": 1.75
+    },
+    {
+      "seed": 870178,
+      "baseline": 0.75,
+      "candidate": 0.5
+    },
+    {
+      "seed": 870179,
+      "baseline": -0.5,
+      "candidate": -0.5
+    },
+    {
+      "seed": 870180,
+      "baseline": 1.25,
+      "candidate": 1.25
+    },
+    {
+      "seed": 870181,
+      "baseline": -2.25,
+      "candidate": 2.75
+    },
+    {
+      "seed": 870182,
+      "baseline": 3.75,
+      "candidate": 4.5
+    },
+    {
+      "seed": 870183,
+      "baseline": -1.5,
+      "candidate": -2
+    },
+    {
+      "seed": 870184,
+      "baseline": 8.5,
+      "candidate": 12.5
+    },
+    {
+      "seed": 870185,
+      "baseline": 0,
+      "candidate": 0
+    },
+    {
+      "seed": 870186,
+      "baseline": 3,
+      "candidate": 4
+    },
+    {
+      "seed": 870187,
+      "baseline": -0.25,
+      "candidate": -0.25
+    },
+    {
+      "seed": 870188,
+      "baseline": -0.25,
+      "candidate": -1.25
+    },
+    {
+      "seed": 870189,
+      "baseline": 2,
+      "candidate": 1.5
+    },
+    {
+      "seed": 870190,
+      "baseline": 0.75,
+      "candidate": 0.75
+    },
+    {
+      "seed": 870191,
+      "baseline": 1.25,
+      "candidate": 1.25
+    },
+    {
+      "seed": 870192,
+      "baseline": 2.5,
+      "candidate": 3.5
+    },
+    {
+      "seed": 870193,
+      "baseline": 2.5,
+      "candidate": 3.5
+    },
+    {
+      "seed": 870194,
+      "baseline": 0,
+      "candidate": 0.5
+    },
+    {
+      "seed": 870195,
+      "baseline": 11.25,
+      "candidate": 16.5
+    },
+    {
+      "seed": 870196,
+      "baseline": 7.25,
+      "candidate": 53
+    },
+    {
+      "seed": 870197,
+      "baseline": 11,
+      "candidate": -8.5
+    },
+    {
+      "seed": 870198,
+      "baseline": 0.5,
+      "candidate": 0.5
+    },
+    {
+      "seed": 870199,
+      "baseline": 5.75,
+      "candidate": 7.25
+    },
+    {
+      "seed": 870200,
+      "baseline": 5.5,
+      "candidate": 6.5
+    },
+    {
+      "seed": 870201,
+      "baseline": -37,
+      "candidate": 51
+    },
+    {
+      "seed": 870202,
+      "baseline": 8.5,
+      "candidate": 14
+    },
+    {
+      "seed": 870203,
+      "baseline": -1.75,
+      "candidate": 2.75
+    },
+    {
+      "seed": 870204,
+      "baseline": -1.5,
+      "candidate": -3
+    },
+    {
+      "seed": 870205,
+      "baseline": 3.75,
+      "candidate": 4.5
+    },
+    {
+      "seed": 870206,
+      "baseline": 1.75,
+      "candidate": 1.75
+    },
+    {
+      "seed": 870207,
+      "baseline": 0.5,
+      "candidate": 0.5
+    },
+    {
+      "seed": 870208,
+      "baseline": 3.25,
+      "candidate": 6.5
+    },
+    {
+      "seed": 870209,
+      "baseline": 1.5,
+      "candidate": 9.25
+    },
+    {
+      "seed": 870210,
+      "baseline": 5,
+      "candidate": 5.75
+    },
+    {
+      "seed": 870211,
+      "baseline": 2,
+      "candidate": 33
+    },
+    {
+      "seed": 870212,
+      "baseline": -1,
+      "candidate": 6.5
+    },
+    {
+      "seed": 870213,
+      "baseline": 3.5,
+      "candidate": 4
+    },
+    {
+      "seed": 870214,
+      "baseline": 12.75,
+      "candidate": 23
+    },
+    {
+      "seed": 870215,
+      "baseline": -0.75,
+      "candidate": -2.25
+    },
+    {
+      "seed": 870216,
+      "baseline": 32.75,
+      "candidate": 50.25
+    },
+    {
+      "seed": 870217,
+      "baseline": 31.5,
+      "candidate": 48.5
+    },
+    {
+      "seed": 870218,
+      "baseline": 6.75,
+      "candidate": 6.75
+    },
+    {
+      "seed": 870219,
+      "baseline": -0.75,
+      "candidate": -0.75
+    },
+    {
+      "seed": 870220,
+      "baseline": 0,
+      "candidate": -20
+    },
+    {
+      "seed": 870221,
+      "baseline": 34.5,
+      "candidate": -48
+    },
+    {
+      "seed": 870222,
+      "baseline": 0.5,
+      "candidate": 1.5
+    },
+    {
+      "seed": 870223,
+      "baseline": 0.25,
+      "candidate": 0.25
+    },
+    {
+      "seed": 870224,
+      "baseline": -1.25,
+      "candidate": -1.25
+    },
+    {
+      "seed": 870225,
+      "baseline": -1,
+      "candidate": -1
+    },
+    {
+      "seed": 870226,
+      "baseline": 50.25,
+      "candidate": 20
+    },
+    {
+      "seed": 870227,
+      "baseline": -2.5,
+      "candidate": 1
+    },
+    {
+      "seed": 870228,
+      "baseline": 3,
+      "candidate": 2.75
+    },
+    {
+      "seed": 870229,
+      "baseline": 1.25,
+      "candidate": 37.25
+    },
+    {
+      "seed": 870230,
+      "baseline": -0.75,
+      "candidate": -0.75
+    },
+    {
+      "seed": 870231,
+      "baseline": -0.25,
+      "candidate": -0.25
+    },
+    {
+      "seed": 870232,
+      "baseline": -2,
+      "candidate": -2.25
+    },
+    {
+      "seed": 870233,
+      "baseline": 0.75,
+      "candidate": 0.75
+    },
+    {
+      "seed": 870234,
+      "baseline": 0.5,
+      "candidate": 18.25
+    },
+    {
+      "seed": 870235,
+      "baseline": 5.5,
+      "candidate": 7
+    },
+    {
+      "seed": 870236,
+      "baseline": 37.25,
+      "candidate": 57
+    },
+    {
+      "seed": 870237,
+      "baseline": 2.25,
+      "candidate": 2.25
+    },
+    {
+      "seed": 870238,
+      "baseline": 1,
+      "candidate": 1
+    },
+    {
+      "seed": 870239,
+      "baseline": 1.5,
+      "candidate": 19.75
+    },
+    {
+      "seed": 870240,
+      "baseline": 1.25,
+      "candidate": 7.25
+    },
+    {
+      "seed": 870241,
+      "baseline": 1,
+      "candidate": 7.5
+    },
+    {
+      "seed": 870242,
+      "baseline": -1.75,
+      "candidate": -3.5
+    },
+    {
+      "seed": 870243,
+      "baseline": 1.5,
+      "candidate": 43.75
+    },
+    {
+      "seed": 870244,
+      "baseline": 0,
+      "candidate": 0
+    },
+    {
+      "seed": 870245,
+      "baseline": 1.75,
+      "candidate": 23.75
+    },
+    {
+      "seed": 870246,
+      "baseline": 1,
+      "candidate": 0.5
+    },
+    {
+      "seed": 870247,
+      "baseline": 0.75,
+      "candidate": 1.75
+    },
+    {
+      "seed": 870248,
+      "baseline": 5.5,
+      "candidate": 7.75
+    },
+    {
+      "seed": 870249,
+      "baseline": 50.25,
+      "candidate": 22.5
+    },
+    {
+      "seed": 870250,
+      "baseline": -2.5,
+      "candidate": 0
+    },
+    {
+      "seed": 870251,
+      "baseline": 1.5,
+      "candidate": 2.25
+    },
+    {
+      "seed": 870252,
+      "baseline": 0.75,
+      "candidate": 0.75
+    },
+    {
+      "seed": 870253,
+      "baseline": 0.5,
+      "candidate": 1.5
+    },
+    {
+      "seed": 870254,
+      "baseline": 5.75,
+      "candidate": -49.75
+    },
+    {
+      "seed": 870255,
+      "baseline": 3.75,
+      "candidate": -7
+    },
+    {
+      "seed": 870256,
+      "baseline": -0.25,
+      "candidate": -1.25
+    }
+  ],
+  "experience": [
+    {
+      "id": "train-p0-s310001-seat0",
+      "policy": 0,
+      "seed": 310001,
+      "seat": 0,
+      "profit": -5
+    },
+    {
+      "id": "train-p0-s310001-seat1",
+      "policy": 0,
+      "seed": 310001,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p0-s310002-seat0",
+      "policy": 0,
+      "seed": 310002,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p0-s310002-seat1",
+      "policy": 0,
+      "seed": 310002,
+      "seat": 1,
+      "profit": 100
+    },
+    {
+      "id": "train-p0-s310003-seat0",
+      "policy": 0,
+      "seed": 310003,
+      "seat": 0,
+      "profit": 4
+    },
+    {
+      "id": "train-p0-s310003-seat1",
+      "policy": 0,
+      "seed": 310003,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p0-s310004-seat0",
+      "policy": 0,
+      "seed": 310004,
+      "seat": 0,
+      "profit": -1
+    },
+    {
+      "id": "train-p0-s310004-seat1",
+      "policy": 0,
+      "seed": 310004,
+      "seat": 1,
+      "profit": -4
+    },
+    {
+      "id": "train-p0-s310005-seat0",
+      "policy": 0,
+      "seed": 310005,
+      "seat": 0,
+      "profit": 4
+    },
+    {
+      "id": "train-p0-s310005-seat1",
+      "policy": 0,
+      "seed": 310005,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p0-s310006-seat0",
+      "policy": 0,
+      "seed": 310006,
+      "seat": 0,
+      "profit": 9.5
+    },
+    {
+      "id": "train-p0-s310006-seat1",
+      "policy": 0,
+      "seed": 310006,
+      "seat": 1,
+      "profit": -4
+    },
+    {
+      "id": "train-p0-s310007-seat0",
+      "policy": 0,
+      "seed": 310007,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p0-s310007-seat1",
+      "policy": 0,
+      "seed": 310007,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p0-s310008-seat0",
+      "policy": 0,
+      "seed": 310008,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p0-s310008-seat1",
+      "policy": 0,
+      "seed": 310008,
+      "seat": 1,
+      "profit": 9.5
+    },
+    {
+      "id": "train-p0-s310009-seat0",
+      "policy": 0,
+      "seed": 310009,
+      "seat": 0,
+      "profit": 1
+    },
+    {
+      "id": "train-p0-s310009-seat1",
+      "policy": 0,
+      "seed": 310009,
+      "seat": 1,
+      "profit": 13.5
+    },
+    {
+      "id": "train-p0-s310010-seat0",
+      "policy": 0,
+      "seed": 310010,
+      "seat": 0,
+      "profit": 67.5
+    },
+    {
+      "id": "train-p0-s310010-seat1",
+      "policy": 0,
+      "seed": 310010,
+      "seat": 1,
+      "profit": 1
+    },
+    {
+      "id": "train-p0-s310011-seat0",
+      "policy": 0,
+      "seed": 310011,
+      "seat": 0,
+      "profit": -3
+    },
+    {
+      "id": "train-p0-s310011-seat1",
+      "policy": 0,
+      "seed": 310011,
+      "seat": 1,
+      "profit": 4
+    },
+    {
+      "id": "train-p0-s310012-seat0",
+      "policy": 0,
+      "seed": 310012,
+      "seat": 0,
+      "profit": -3
+    },
+    {
+      "id": "train-p0-s310012-seat1",
+      "policy": 0,
+      "seed": 310012,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p0-s310013-seat0",
+      "policy": 0,
+      "seed": 310013,
+      "seat": 0,
+      "profit": -1
+    },
+    {
+      "id": "train-p0-s310013-seat1",
+      "policy": 0,
+      "seed": 310013,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p0-s310014-seat0",
+      "policy": 0,
+      "seed": 310014,
+      "seat": 0,
+      "profit": -3
+    },
+    {
+      "id": "train-p0-s310014-seat1",
+      "policy": 0,
+      "seed": 310014,
+      "seat": 1,
+      "profit": 3
+    },
+    {
+      "id": "train-p0-s310015-seat0",
+      "policy": 0,
+      "seed": 310015,
+      "seat": 0,
+      "profit": -3
+    },
+    {
+      "id": "train-p0-s310015-seat1",
+      "policy": 0,
+      "seed": 310015,
+      "seat": 1,
+      "profit": 4
+    },
+    {
+      "id": "train-p0-s310016-seat0",
+      "policy": 0,
+      "seed": 310016,
+      "seat": 0,
+      "profit": -5
+    },
+    {
+      "id": "train-p0-s310016-seat1",
+      "policy": 0,
+      "seed": 310016,
+      "seat": 1,
+      "profit": 10.5
+    },
+    {
+      "id": "train-p0-s310017-seat0",
+      "policy": 0,
+      "seed": 310017,
+      "seat": 0,
+      "profit": 0
+    },
+    {
+      "id": "train-p0-s310017-seat1",
+      "policy": 0,
+      "seed": 310017,
+      "seat": 1,
+      "profit": 0
+    },
+    {
+      "id": "train-p0-s310018-seat0",
+      "policy": 0,
+      "seed": 310018,
+      "seat": 0,
+      "profit": 2
+    },
+    {
+      "id": "train-p0-s310018-seat1",
+      "policy": 0,
+      "seed": 310018,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p0-s310019-seat0",
+      "policy": 0,
+      "seed": 310019,
+      "seat": 0,
+      "profit": 9.5
+    },
+    {
+      "id": "train-p0-s310019-seat1",
+      "policy": 0,
+      "seed": 310019,
+      "seat": 1,
+      "profit": 2
+    },
+    {
+      "id": "train-p0-s310020-seat0",
+      "policy": 0,
+      "seed": 310020,
+      "seat": 0,
+      "profit": -2
+    },
+    {
+      "id": "train-p0-s310020-seat1",
+      "policy": 0,
+      "seed": 310020,
+      "seat": 1,
+      "profit": 2
+    },
+    {
+      "id": "train-p0-s310021-seat0",
+      "policy": 0,
+      "seed": 310021,
+      "seat": 0,
+      "profit": -3
+    },
+    {
+      "id": "train-p0-s310021-seat1",
+      "policy": 0,
+      "seed": 310021,
+      "seat": 1,
+      "profit": 2
+    },
+    {
+      "id": "train-p0-s310022-seat0",
+      "policy": 0,
+      "seed": 310022,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p0-s310022-seat1",
+      "policy": 0,
+      "seed": 310022,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p0-s310023-seat0",
+      "policy": 0,
+      "seed": 310023,
+      "seat": 0,
+      "profit": 60
+    },
+    {
+      "id": "train-p0-s310023-seat1",
+      "policy": 0,
+      "seed": 310023,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p0-s310024-seat0",
+      "policy": 0,
+      "seed": 310024,
+      "seat": 0,
+      "profit": -5
+    },
+    {
+      "id": "train-p0-s310024-seat1",
+      "policy": 0,
+      "seed": 310024,
+      "seat": 1,
+      "profit": 34.5
+    },
+    {
+      "id": "train-p0-s310025-seat0",
+      "policy": 0,
+      "seed": 310025,
+      "seat": 0,
+      "profit": -4
+    },
+    {
+      "id": "train-p0-s310025-seat1",
+      "policy": 0,
+      "seed": 310025,
+      "seat": 1,
+      "profit": 43
+    },
+    {
+      "id": "train-p0-s310026-seat0",
+      "policy": 0,
+      "seed": 310026,
+      "seat": 0,
+      "profit": 3
+    },
+    {
+      "id": "train-p0-s310026-seat1",
+      "policy": 0,
+      "seed": 310026,
+      "seat": 1,
+      "profit": 43
+    },
+    {
+      "id": "train-p0-s310027-seat0",
+      "policy": 0,
+      "seed": 310027,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p0-s310027-seat1",
+      "policy": 0,
+      "seed": 310027,
+      "seat": 1,
+      "profit": -1
+    },
+    {
+      "id": "train-p0-s310028-seat0",
+      "policy": 0,
+      "seed": 310028,
+      "seat": 0,
+      "profit": 1
+    },
+    {
+      "id": "train-p0-s310028-seat1",
+      "policy": 0,
+      "seed": 310028,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p0-s310029-seat0",
+      "policy": 0,
+      "seed": 310029,
+      "seat": 0,
+      "profit": -2
+    },
+    {
+      "id": "train-p0-s310029-seat1",
+      "policy": 0,
+      "seed": 310029,
+      "seat": 1,
+      "profit": -1
+    },
+    {
+      "id": "train-p0-s310030-seat0",
+      "policy": 0,
+      "seed": 310030,
+      "seat": 0,
+      "profit": -1
+    },
+    {
+      "id": "train-p0-s310030-seat1",
+      "policy": 0,
+      "seed": 310030,
+      "seat": 1,
+      "profit": 3
+    },
+    {
+      "id": "train-p0-s310031-seat0",
+      "policy": 0,
+      "seed": 310031,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p0-s310031-seat1",
+      "policy": 0,
+      "seed": 310031,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p0-s310032-seat0",
+      "policy": 0,
+      "seed": 310032,
+      "seat": 0,
+      "profit": 2
+    },
+    {
+      "id": "train-p0-s310032-seat1",
+      "policy": 0,
+      "seed": 310032,
+      "seat": 1,
+      "profit": -1
+    },
+    {
+      "id": "train-p0-s310033-seat0",
+      "policy": 0,
+      "seed": 310033,
+      "seat": 0,
+      "profit": 0
+    },
+    {
+      "id": "train-p0-s310033-seat1",
+      "policy": 0,
+      "seed": 310033,
+      "seat": 1,
+      "profit": 0
+    },
+    {
+      "id": "train-p0-s310034-seat0",
+      "policy": 0,
+      "seed": 310034,
+      "seat": 0,
+      "profit": 2
+    },
+    {
+      "id": "train-p0-s310034-seat1",
+      "policy": 0,
+      "seed": 310034,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p0-s310035-seat0",
+      "policy": 0,
+      "seed": 310035,
+      "seat": 0,
+      "profit": -9.5
+    },
+    {
+      "id": "train-p0-s310035-seat1",
+      "policy": 0,
+      "seed": 310035,
+      "seat": 1,
+      "profit": 100
+    },
+    {
+      "id": "train-p0-s310036-seat0",
+      "policy": 0,
+      "seed": 310036,
+      "seat": 0,
+      "profit": 2
+    },
+    {
+      "id": "train-p0-s310036-seat1",
+      "policy": 0,
+      "seed": 310036,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p0-s310037-seat0",
+      "policy": 0,
+      "seed": 310037,
+      "seat": 0,
+      "profit": -2
+    },
+    {
+      "id": "train-p0-s310037-seat1",
+      "policy": 0,
+      "seed": 310037,
+      "seat": 1,
+      "profit": 2
+    },
+    {
+      "id": "train-p0-s310038-seat0",
+      "policy": 0,
+      "seed": 310038,
+      "seat": 0,
+      "profit": -1
+    },
+    {
+      "id": "train-p0-s310038-seat1",
+      "policy": 0,
+      "seed": 310038,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p0-s310039-seat0",
+      "policy": 0,
+      "seed": 310039,
+      "seat": 0,
+      "profit": 8
+    },
+    {
+      "id": "train-p0-s310039-seat1",
+      "policy": 0,
+      "seed": 310039,
+      "seat": 1,
+      "profit": -4
+    },
+    {
+      "id": "train-p0-s310040-seat0",
+      "policy": 0,
+      "seed": 310040,
+      "seat": 0,
+      "profit": 100
+    },
+    {
+      "id": "train-p0-s310040-seat1",
+      "policy": 0,
+      "seed": 310040,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p0-s310041-seat0",
+      "policy": 0,
+      "seed": 310041,
+      "seat": 0,
+      "profit": 8
+    },
+    {
+      "id": "train-p0-s310041-seat1",
+      "policy": 0,
+      "seed": 310041,
+      "seat": 1,
+      "profit": 100
+    },
+    {
+      "id": "train-p0-s310042-seat0",
+      "policy": 0,
+      "seed": 310042,
+      "seat": 0,
+      "profit": 15
+    },
+    {
+      "id": "train-p0-s310042-seat1",
+      "policy": 0,
+      "seed": 310042,
+      "seat": 1,
+      "profit": -25.5
+    },
+    {
+      "id": "train-p0-s310043-seat0",
+      "policy": 0,
+      "seed": 310043,
+      "seat": 0,
+      "profit": -5
+    },
+    {
+      "id": "train-p0-s310043-seat1",
+      "policy": 0,
+      "seed": 310043,
+      "seat": 1,
+      "profit": -1
+    },
+    {
+      "id": "train-p0-s310044-seat0",
+      "policy": 0,
+      "seed": 310044,
+      "seat": 0,
+      "profit": -1
+    },
+    {
+      "id": "train-p0-s310044-seat1",
+      "policy": 0,
+      "seed": 310044,
+      "seat": 1,
+      "profit": 2
+    },
+    {
+      "id": "train-p0-s310045-seat0",
+      "policy": 0,
+      "seed": 310045,
+      "seat": 0,
+      "profit": 8
+    },
+    {
+      "id": "train-p0-s310045-seat1",
+      "policy": 0,
+      "seed": 310045,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p0-s310046-seat0",
+      "policy": 0,
+      "seed": 310046,
+      "seat": 0,
+      "profit": -4
+    },
+    {
+      "id": "train-p0-s310046-seat1",
+      "policy": 0,
+      "seed": 310046,
+      "seat": 1,
+      "profit": 3
+    },
+    {
+      "id": "train-p0-s310047-seat0",
+      "policy": 0,
+      "seed": 310047,
+      "seat": 0,
+      "profit": 1
+    },
+    {
+      "id": "train-p0-s310047-seat1",
+      "policy": 0,
+      "seed": 310047,
+      "seat": 1,
+      "profit": -4
+    },
+    {
+      "id": "train-p0-s310048-seat0",
+      "policy": 0,
+      "seed": 310048,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p0-s310048-seat1",
+      "policy": 0,
+      "seed": 310048,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p0-s310049-seat0",
+      "policy": 0,
+      "seed": 310049,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p0-s310049-seat1",
+      "policy": 0,
+      "seed": 310049,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p0-s310050-seat0",
+      "policy": 0,
+      "seed": 310050,
+      "seat": 0,
+      "profit": -1
+    },
+    {
+      "id": "train-p0-s310050-seat1",
+      "policy": 0,
+      "seed": 310050,
+      "seat": 1,
+      "profit": 3
+    },
+    {
+      "id": "train-p0-s310051-seat0",
+      "policy": 0,
+      "seed": 310051,
+      "seat": 0,
+      "profit": 5
+    },
+    {
+      "id": "train-p0-s310051-seat1",
+      "policy": 0,
+      "seed": 310051,
+      "seat": 1,
+      "profit": -4
+    },
+    {
+      "id": "train-p0-s310052-seat0",
+      "policy": 0,
+      "seed": 310052,
+      "seat": 0,
+      "profit": 2
+    },
+    {
+      "id": "train-p0-s310052-seat1",
+      "policy": 0,
+      "seed": 310052,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p0-s310053-seat0",
+      "policy": 0,
+      "seed": 310053,
+      "seat": 0,
+      "profit": 7
+    },
+    {
+      "id": "train-p0-s310053-seat1",
+      "policy": 0,
+      "seed": 310053,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p0-s310054-seat0",
+      "policy": 0,
+      "seed": 310054,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p0-s310054-seat1",
+      "policy": 0,
+      "seed": 310054,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p0-s310055-seat0",
+      "policy": 0,
+      "seed": 310055,
+      "seat": 0,
+      "profit": -4
+    },
+    {
+      "id": "train-p0-s310055-seat1",
+      "policy": 0,
+      "seed": 310055,
+      "seat": 1,
+      "profit": 1
+    },
+    {
+      "id": "train-p0-s310056-seat0",
+      "policy": 0,
+      "seed": 310056,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p0-s310056-seat1",
+      "policy": 0,
+      "seed": 310056,
+      "seat": 1,
+      "profit": 32.5
+    },
+    {
+      "id": "train-p0-s310057-seat0",
+      "policy": 0,
+      "seed": 310057,
+      "seat": 0,
+      "profit": -5
+    },
+    {
+      "id": "train-p0-s310057-seat1",
+      "policy": 0,
+      "seed": 310057,
+      "seat": 1,
+      "profit": 11.5
+    },
+    {
+      "id": "train-p0-s310058-seat0",
+      "policy": 0,
+      "seed": 310058,
+      "seat": 0,
+      "profit": 7
+    },
+    {
+      "id": "train-p0-s310058-seat1",
+      "policy": 0,
+      "seed": 310058,
+      "seat": 1,
+      "profit": -1
+    },
+    {
+      "id": "train-p0-s310059-seat0",
+      "policy": 0,
+      "seed": 310059,
+      "seat": 0,
+      "profit": 1
+    },
+    {
+      "id": "train-p0-s310059-seat1",
+      "policy": 0,
+      "seed": 310059,
+      "seat": 1,
+      "profit": 4
+    },
+    {
+      "id": "train-p0-s310060-seat0",
+      "policy": 0,
+      "seed": 310060,
+      "seat": 0,
+      "profit": 1
+    },
+    {
+      "id": "train-p0-s310060-seat1",
+      "policy": 0,
+      "seed": 310060,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p0-s310061-seat0",
+      "policy": 0,
+      "seed": 310061,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p0-s310061-seat1",
+      "policy": 0,
+      "seed": 310061,
+      "seat": 1,
+      "profit": 4
+    },
+    {
+      "id": "train-p0-s310062-seat0",
+      "policy": 0,
+      "seed": 310062,
+      "seat": 0,
+      "profit": -2
+    },
+    {
+      "id": "train-p0-s310062-seat1",
+      "policy": 0,
+      "seed": 310062,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p0-s310063-seat0",
+      "policy": 0,
+      "seed": 310063,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p0-s310063-seat1",
+      "policy": 0,
+      "seed": 310063,
+      "seat": 1,
+      "profit": -4
+    },
+    {
+      "id": "train-p0-s310064-seat0",
+      "policy": 0,
+      "seed": 310064,
+      "seat": 0,
+      "profit": -4
+    },
+    {
+      "id": "train-p0-s310064-seat1",
+      "policy": 0,
+      "seed": 310064,
+      "seat": 1,
+      "profit": 2.5
+    },
+    {
+      "id": "train-p1-s310001-seat0",
+      "policy": 1,
+      "seed": 310001,
+      "seat": 0,
+      "profit": -5
+    },
+    {
+      "id": "train-p1-s310001-seat1",
+      "policy": 1,
+      "seed": 310001,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p1-s310002-seat0",
+      "policy": 1,
+      "seed": 310002,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p1-s310002-seat1",
+      "policy": 1,
+      "seed": 310002,
+      "seat": 1,
+      "profit": 100
+    },
+    {
+      "id": "train-p1-s310003-seat0",
+      "policy": 1,
+      "seed": 310003,
+      "seat": 0,
+      "profit": 2
+    },
+    {
+      "id": "train-p1-s310003-seat1",
+      "policy": 1,
+      "seed": 310003,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p1-s310004-seat0",
+      "policy": 1,
+      "seed": 310004,
+      "seat": 0,
+      "profit": -1
+    },
+    {
+      "id": "train-p1-s310004-seat1",
+      "policy": 1,
+      "seed": 310004,
+      "seat": 1,
+      "profit": 1
+    },
+    {
+      "id": "train-p1-s310005-seat0",
+      "policy": 1,
+      "seed": 310005,
+      "seat": 0,
+      "profit": 12
+    },
+    {
+      "id": "train-p1-s310005-seat1",
+      "policy": 1,
+      "seed": 310005,
+      "seat": 1,
+      "profit": -4
+    },
+    {
+      "id": "train-p1-s310006-seat0",
+      "policy": 1,
+      "seed": 310006,
+      "seat": 0,
+      "profit": 10
+    },
+    {
+      "id": "train-p1-s310006-seat1",
+      "policy": 1,
+      "seed": 310006,
+      "seat": 1,
+      "profit": -4
+    },
+    {
+      "id": "train-p1-s310007-seat0",
+      "policy": 1,
+      "seed": 310007,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p1-s310007-seat1",
+      "policy": 1,
+      "seed": 310007,
+      "seat": 1,
+      "profit": 1
+    },
+    {
+      "id": "train-p1-s310008-seat0",
+      "policy": 1,
+      "seed": 310008,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p1-s310008-seat1",
+      "policy": 1,
+      "seed": 310008,
+      "seat": 1,
+      "profit": 13
+    },
+    {
+      "id": "train-p1-s310009-seat0",
+      "policy": 1,
+      "seed": 310009,
+      "seat": 0,
+      "profit": 1
+    },
+    {
+      "id": "train-p1-s310009-seat1",
+      "policy": 1,
+      "seed": 310009,
+      "seat": 1,
+      "profit": 15
+    },
+    {
+      "id": "train-p1-s310010-seat0",
+      "policy": 1,
+      "seed": 310010,
+      "seat": 0,
+      "profit": 1
+    },
+    {
+      "id": "train-p1-s310010-seat1",
+      "policy": 1,
+      "seed": 310010,
+      "seat": 1,
+      "profit": 1
+    },
+    {
+      "id": "train-p1-s310011-seat0",
+      "policy": 1,
+      "seed": 310011,
+      "seat": 0,
+      "profit": -3
+    },
+    {
+      "id": "train-p1-s310011-seat1",
+      "policy": 1,
+      "seed": 310011,
+      "seat": 1,
+      "profit": 5
+    },
+    {
+      "id": "train-p1-s310012-seat0",
+      "policy": 1,
+      "seed": 310012,
+      "seat": 0,
+      "profit": -4
+    },
+    {
+      "id": "train-p1-s310012-seat1",
+      "policy": 1,
+      "seed": 310012,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p1-s310013-seat0",
+      "policy": 1,
+      "seed": 310013,
+      "seat": 0,
+      "profit": 4
+    },
+    {
+      "id": "train-p1-s310013-seat1",
+      "policy": 1,
+      "seed": 310013,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p1-s310014-seat0",
+      "policy": 1,
+      "seed": 310014,
+      "seat": 0,
+      "profit": -9
+    },
+    {
+      "id": "train-p1-s310014-seat1",
+      "policy": 1,
+      "seed": 310014,
+      "seat": 1,
+      "profit": 3
+    },
+    {
+      "id": "train-p1-s310015-seat0",
+      "policy": 1,
+      "seed": 310015,
+      "seat": 0,
+      "profit": -3
+    },
+    {
+      "id": "train-p1-s310015-seat1",
+      "policy": 1,
+      "seed": 310015,
+      "seat": 1,
+      "profit": 15
+    },
+    {
+      "id": "train-p1-s310016-seat0",
+      "policy": 1,
+      "seed": 310016,
+      "seat": 0,
+      "profit": 2
+    },
+    {
+      "id": "train-p1-s310016-seat1",
+      "policy": 1,
+      "seed": 310016,
+      "seat": 1,
+      "profit": 16
+    },
+    {
+      "id": "train-p1-s310017-seat0",
+      "policy": 1,
+      "seed": 310017,
+      "seat": 0,
+      "profit": 0
+    },
+    {
+      "id": "train-p1-s310017-seat1",
+      "policy": 1,
+      "seed": 310017,
+      "seat": 1,
+      "profit": 0
+    },
+    {
+      "id": "train-p1-s310018-seat0",
+      "policy": 1,
+      "seed": 310018,
+      "seat": 0,
+      "profit": 2
+    },
+    {
+      "id": "train-p1-s310018-seat1",
+      "policy": 1,
+      "seed": 310018,
+      "seat": 1,
+      "profit": 2
+    },
+    {
+      "id": "train-p1-s310019-seat0",
+      "policy": 1,
+      "seed": 310019,
+      "seat": 0,
+      "profit": 15
+    },
+    {
+      "id": "train-p1-s310019-seat1",
+      "policy": 1,
+      "seed": 310019,
+      "seat": 1,
+      "profit": 2
+    },
+    {
+      "id": "train-p1-s310020-seat0",
+      "policy": 1,
+      "seed": 310020,
+      "seat": 0,
+      "profit": -2
+    },
+    {
+      "id": "train-p1-s310020-seat1",
+      "policy": 1,
+      "seed": 310020,
+      "seat": 1,
+      "profit": 4
+    },
+    {
+      "id": "train-p1-s310021-seat0",
+      "policy": 1,
+      "seed": 310021,
+      "seat": 0,
+      "profit": -3
+    },
+    {
+      "id": "train-p1-s310021-seat1",
+      "policy": 1,
+      "seed": 310021,
+      "seat": 1,
+      "profit": 2
+    },
+    {
+      "id": "train-p1-s310022-seat0",
+      "policy": 1,
+      "seed": 310022,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p1-s310022-seat1",
+      "policy": 1,
+      "seed": 310022,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p1-s310023-seat0",
+      "policy": 1,
+      "seed": 310023,
+      "seat": 0,
+      "profit": 100
+    },
+    {
+      "id": "train-p1-s310023-seat1",
+      "policy": 1,
+      "seed": 310023,
+      "seat": 1,
+      "profit": -48
+    },
+    {
+      "id": "train-p1-s310024-seat0",
+      "policy": 1,
+      "seed": 310024,
+      "seat": 0,
+      "profit": -16
+    },
+    {
+      "id": "train-p1-s310024-seat1",
+      "policy": 1,
+      "seed": 310024,
+      "seat": 1,
+      "profit": 100
+    },
+    {
+      "id": "train-p1-s310025-seat0",
+      "policy": 1,
+      "seed": 310025,
+      "seat": 0,
+      "profit": -4
+    },
+    {
+      "id": "train-p1-s310025-seat1",
+      "policy": 1,
+      "seed": 310025,
+      "seat": 1,
+      "profit": 50
+    },
+    {
+      "id": "train-p1-s310026-seat0",
+      "policy": 1,
+      "seed": 310026,
+      "seat": 0,
+      "profit": 20
+    },
+    {
+      "id": "train-p1-s310026-seat1",
+      "policy": 1,
+      "seed": 310026,
+      "seat": 1,
+      "profit": 90
+    },
+    {
+      "id": "train-p1-s310027-seat0",
+      "policy": 1,
+      "seed": 310027,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p1-s310027-seat1",
+      "policy": 1,
+      "seed": 310027,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p1-s310028-seat0",
+      "policy": 1,
+      "seed": 310028,
+      "seat": 0,
+      "profit": 1
+    },
+    {
+      "id": "train-p1-s310028-seat1",
+      "policy": 1,
+      "seed": 310028,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p1-s310029-seat0",
+      "policy": 1,
+      "seed": 310029,
+      "seat": 0,
+      "profit": 2
+    },
+    {
+      "id": "train-p1-s310029-seat1",
+      "policy": 1,
+      "seed": 310029,
+      "seat": 1,
+      "profit": 2
+    },
+    {
+      "id": "train-p1-s310030-seat0",
+      "policy": 1,
+      "seed": 310030,
+      "seat": 0,
+      "profit": -2
+    },
+    {
+      "id": "train-p1-s310030-seat1",
+      "policy": 1,
+      "seed": 310030,
+      "seat": 1,
+      "profit": 7
+    },
+    {
+      "id": "train-p1-s310031-seat0",
+      "policy": 1,
+      "seed": 310031,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p1-s310031-seat1",
+      "policy": 1,
+      "seed": 310031,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p1-s310032-seat0",
+      "policy": 1,
+      "seed": 310032,
+      "seat": 0,
+      "profit": 2
+    },
+    {
+      "id": "train-p1-s310032-seat1",
+      "policy": 1,
+      "seed": 310032,
+      "seat": 1,
+      "profit": 1
+    },
+    {
+      "id": "train-p1-s310033-seat0",
+      "policy": 1,
+      "seed": 310033,
+      "seat": 0,
+      "profit": 0
+    },
+    {
+      "id": "train-p1-s310033-seat1",
+      "policy": 1,
+      "seed": 310033,
+      "seat": 1,
+      "profit": 0
+    },
+    {
+      "id": "train-p1-s310034-seat0",
+      "policy": 1,
+      "seed": 310034,
+      "seat": 0,
+      "profit": 2
+    },
+    {
+      "id": "train-p1-s310034-seat1",
+      "policy": 1,
+      "seed": 310034,
+      "seat": 1,
+      "profit": 16
+    },
+    {
+      "id": "train-p1-s310035-seat0",
+      "policy": 1,
+      "seed": 310035,
+      "seat": 0,
+      "profit": 6
+    },
+    {
+      "id": "train-p1-s310035-seat1",
+      "policy": 1,
+      "seed": 310035,
+      "seat": 1,
+      "profit": 3
+    },
+    {
+      "id": "train-p1-s310036-seat0",
+      "policy": 1,
+      "seed": 310036,
+      "seat": 0,
+      "profit": 6
+    },
+    {
+      "id": "train-p1-s310036-seat1",
+      "policy": 1,
+      "seed": 310036,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p1-s310037-seat0",
+      "policy": 1,
+      "seed": 310037,
+      "seat": 0,
+      "profit": -2
+    },
+    {
+      "id": "train-p1-s310037-seat1",
+      "policy": 1,
+      "seed": 310037,
+      "seat": 1,
+      "profit": 7
+    },
+    {
+      "id": "train-p1-s310038-seat0",
+      "policy": 1,
+      "seed": 310038,
+      "seat": 0,
+      "profit": -2
+    },
+    {
+      "id": "train-p1-s310038-seat1",
+      "policy": 1,
+      "seed": 310038,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p1-s310039-seat0",
+      "policy": 1,
+      "seed": 310039,
+      "seat": 0,
+      "profit": 2
+    },
+    {
+      "id": "train-p1-s310039-seat1",
+      "policy": 1,
+      "seed": 310039,
+      "seat": 1,
+      "profit": 15
+    },
+    {
+      "id": "train-p1-s310040-seat0",
+      "policy": 1,
+      "seed": 310040,
+      "seat": 0,
+      "profit": 2
+    },
+    {
+      "id": "train-p1-s310040-seat1",
+      "policy": 1,
+      "seed": 310040,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p1-s310041-seat0",
+      "policy": 1,
+      "seed": 310041,
+      "seat": 0,
+      "profit": 19
+    },
+    {
+      "id": "train-p1-s310041-seat1",
+      "policy": 1,
+      "seed": 310041,
+      "seat": 1,
+      "profit": 100
+    },
+    {
+      "id": "train-p1-s310042-seat0",
+      "policy": 1,
+      "seed": 310042,
+      "seat": 0,
+      "profit": 100
+    },
+    {
+      "id": "train-p1-s310042-seat1",
+      "policy": 1,
+      "seed": 310042,
+      "seat": 1,
+      "profit": -45
+    },
+    {
+      "id": "train-p1-s310043-seat0",
+      "policy": 1,
+      "seed": 310043,
+      "seat": 0,
+      "profit": -12
+    },
+    {
+      "id": "train-p1-s310043-seat1",
+      "policy": 1,
+      "seed": 310043,
+      "seat": 1,
+      "profit": 6
+    },
+    {
+      "id": "train-p1-s310044-seat0",
+      "policy": 1,
+      "seed": 310044,
+      "seat": 0,
+      "profit": 1
+    },
+    {
+      "id": "train-p1-s310044-seat1",
+      "policy": 1,
+      "seed": 310044,
+      "seat": 1,
+      "profit": 2
+    },
+    {
+      "id": "train-p1-s310045-seat0",
+      "policy": 1,
+      "seed": 310045,
+      "seat": 0,
+      "profit": 10
+    },
+    {
+      "id": "train-p1-s310045-seat1",
+      "policy": 1,
+      "seed": 310045,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p1-s310046-seat0",
+      "policy": 1,
+      "seed": 310046,
+      "seat": 0,
+      "profit": -4
+    },
+    {
+      "id": "train-p1-s310046-seat1",
+      "policy": 1,
+      "seed": 310046,
+      "seat": 1,
+      "profit": 10
+    },
+    {
+      "id": "train-p1-s310047-seat0",
+      "policy": 1,
+      "seed": 310047,
+      "seat": 0,
+      "profit": 1
+    },
+    {
+      "id": "train-p1-s310047-seat1",
+      "policy": 1,
+      "seed": 310047,
+      "seat": 1,
+      "profit": -100
+    },
+    {
+      "id": "train-p1-s310048-seat0",
+      "policy": 1,
+      "seed": 310048,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p1-s310048-seat1",
+      "policy": 1,
+      "seed": 310048,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p1-s310049-seat0",
+      "policy": 1,
+      "seed": 310049,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p1-s310049-seat1",
+      "policy": 1,
+      "seed": 310049,
+      "seat": 1,
+      "profit": -10
+    },
+    {
+      "id": "train-p1-s310050-seat0",
+      "policy": 1,
+      "seed": 310050,
+      "seat": 0,
+      "profit": -2
+    },
+    {
+      "id": "train-p1-s310050-seat1",
+      "policy": 1,
+      "seed": 310050,
+      "seat": 1,
+      "profit": 3
+    },
+    {
+      "id": "train-p1-s310051-seat0",
+      "policy": 1,
+      "seed": 310051,
+      "seat": 0,
+      "profit": 6
+    },
+    {
+      "id": "train-p1-s310051-seat1",
+      "policy": 1,
+      "seed": 310051,
+      "seat": 1,
+      "profit": -12
+    },
+    {
+      "id": "train-p1-s310052-seat0",
+      "policy": 1,
+      "seed": 310052,
+      "seat": 0,
+      "profit": 2
+    },
+    {
+      "id": "train-p1-s310052-seat1",
+      "policy": 1,
+      "seed": 310052,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p1-s310053-seat0",
+      "policy": 1,
+      "seed": 310053,
+      "seat": 0,
+      "profit": 9
+    },
+    {
+      "id": "train-p1-s310053-seat1",
+      "policy": 1,
+      "seed": 310053,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p1-s310054-seat0",
+      "policy": 1,
+      "seed": 310054,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p1-s310054-seat1",
+      "policy": 1,
+      "seed": 310054,
+      "seat": 1,
+      "profit": 1
+    },
+    {
+      "id": "train-p1-s310055-seat0",
+      "policy": 1,
+      "seed": 310055,
+      "seat": 0,
+      "profit": 5
+    },
+    {
+      "id": "train-p1-s310055-seat1",
+      "policy": 1,
+      "seed": 310055,
+      "seat": 1,
+      "profit": 9
+    },
+    {
+      "id": "train-p1-s310056-seat0",
+      "policy": 1,
+      "seed": 310056,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p1-s310056-seat1",
+      "policy": 1,
+      "seed": 310056,
+      "seat": 1,
+      "profit": 81
+    },
+    {
+      "id": "train-p1-s310057-seat0",
+      "policy": 1,
+      "seed": 310057,
+      "seat": 0,
+      "profit": 10
+    },
+    {
+      "id": "train-p1-s310057-seat1",
+      "policy": 1,
+      "seed": 310057,
+      "seat": 1,
+      "profit": 75
+    },
+    {
+      "id": "train-p1-s310058-seat0",
+      "policy": 1,
+      "seed": 310058,
+      "seat": 0,
+      "profit": 30
+    },
+    {
+      "id": "train-p1-s310058-seat1",
+      "policy": 1,
+      "seed": 310058,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p1-s310059-seat0",
+      "policy": 1,
+      "seed": 310059,
+      "seat": 0,
+      "profit": 1
+    },
+    {
+      "id": "train-p1-s310059-seat1",
+      "policy": 1,
+      "seed": 310059,
+      "seat": 1,
+      "profit": 4
+    },
+    {
+      "id": "train-p1-s310060-seat0",
+      "policy": 1,
+      "seed": 310060,
+      "seat": 0,
+      "profit": 5
+    },
+    {
+      "id": "train-p1-s310060-seat1",
+      "policy": 1,
+      "seed": 310060,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p1-s310061-seat0",
+      "policy": 1,
+      "seed": 310061,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p1-s310061-seat1",
+      "policy": 1,
+      "seed": 310061,
+      "seat": 1,
+      "profit": 6
+    },
+    {
+      "id": "train-p1-s310062-seat0",
+      "policy": 1,
+      "seed": 310062,
+      "seat": 0,
+      "profit": -2
+    },
+    {
+      "id": "train-p1-s310062-seat1",
+      "policy": 1,
+      "seed": 310062,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p1-s310063-seat0",
+      "policy": 1,
+      "seed": 310063,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p1-s310063-seat1",
+      "policy": 1,
+      "seed": 310063,
+      "seat": 1,
+      "profit": -4
+    },
+    {
+      "id": "train-p1-s310064-seat0",
+      "policy": 1,
+      "seed": 310064,
+      "seat": 0,
+      "profit": -4
+    },
+    {
+      "id": "train-p1-s310064-seat1",
+      "policy": 1,
+      "seed": 310064,
+      "seat": 1,
+      "profit": 3
+    },
+    {
+      "id": "train-p2-s310001-seat0",
+      "policy": 2,
+      "seed": 310001,
+      "seat": 0,
+      "profit": -5
+    },
+    {
+      "id": "train-p2-s310001-seat1",
+      "policy": 2,
+      "seed": 310001,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p2-s310002-seat0",
+      "policy": 2,
+      "seed": 310002,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p2-s310002-seat1",
+      "policy": 2,
+      "seed": 310002,
+      "seat": 1,
+      "profit": 100
+    },
+    {
+      "id": "train-p2-s310003-seat0",
+      "policy": 2,
+      "seed": 310003,
+      "seat": 0,
+      "profit": 4
+    },
+    {
+      "id": "train-p2-s310003-seat1",
+      "policy": 2,
+      "seed": 310003,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p2-s310004-seat0",
+      "policy": 2,
+      "seed": 310004,
+      "seat": 0,
+      "profit": -1
+    },
+    {
+      "id": "train-p2-s310004-seat1",
+      "policy": 2,
+      "seed": 310004,
+      "seat": 1,
+      "profit": -4
+    },
+    {
+      "id": "train-p2-s310005-seat0",
+      "policy": 2,
+      "seed": 310005,
+      "seat": 0,
+      "profit": 4
+    },
+    {
+      "id": "train-p2-s310005-seat1",
+      "policy": 2,
+      "seed": 310005,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p2-s310006-seat0",
+      "policy": 2,
+      "seed": 310006,
+      "seat": 0,
+      "profit": 7
+    },
+    {
+      "id": "train-p2-s310006-seat1",
+      "policy": 2,
+      "seed": 310006,
+      "seat": 1,
+      "profit": -4
+    },
+    {
+      "id": "train-p2-s310007-seat0",
+      "policy": 2,
+      "seed": 310007,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p2-s310007-seat1",
+      "policy": 2,
+      "seed": 310007,
+      "seat": 1,
+      "profit": -1
+    },
+    {
+      "id": "train-p2-s310008-seat0",
+      "policy": 2,
+      "seed": 310008,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p2-s310008-seat1",
+      "policy": 2,
+      "seed": 310008,
+      "seat": 1,
+      "profit": 6.5
+    },
+    {
+      "id": "train-p2-s310009-seat0",
+      "policy": 2,
+      "seed": 310009,
+      "seat": 0,
+      "profit": 1
+    },
+    {
+      "id": "train-p2-s310009-seat1",
+      "policy": 2,
+      "seed": 310009,
+      "seat": 1,
+      "profit": -5
+    },
+    {
+      "id": "train-p2-s310010-seat0",
+      "policy": 2,
+      "seed": 310010,
+      "seat": 0,
+      "profit": -8.5
+    },
+    {
+      "id": "train-p2-s310010-seat1",
+      "policy": 2,
+      "seed": 310010,
+      "seat": 1,
+      "profit": 1
+    },
+    {
+      "id": "train-p2-s310011-seat0",
+      "policy": 2,
+      "seed": 310011,
+      "seat": 0,
+      "profit": -3
+    },
+    {
+      "id": "train-p2-s310011-seat1",
+      "policy": 2,
+      "seed": 310011,
+      "seat": 1,
+      "profit": 2
+    },
+    {
+      "id": "train-p2-s310012-seat0",
+      "policy": 2,
+      "seed": 310012,
+      "seat": 0,
+      "profit": -3
+    },
+    {
+      "id": "train-p2-s310012-seat1",
+      "policy": 2,
+      "seed": 310012,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p2-s310013-seat0",
+      "policy": 2,
+      "seed": 310013,
+      "seat": 0,
+      "profit": -1
+    },
+    {
+      "id": "train-p2-s310013-seat1",
+      "policy": 2,
+      "seed": 310013,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p2-s310014-seat0",
+      "policy": 2,
+      "seed": 310014,
+      "seat": 0,
+      "profit": -3
+    },
+    {
+      "id": "train-p2-s310014-seat1",
+      "policy": 2,
+      "seed": 310014,
+      "seat": 1,
+      "profit": 20
+    },
+    {
+      "id": "train-p2-s310015-seat0",
+      "policy": 2,
+      "seed": 310015,
+      "seat": 0,
+      "profit": -3
+    },
+    {
+      "id": "train-p2-s310015-seat1",
+      "policy": 2,
+      "seed": 310015,
+      "seat": 1,
+      "profit": 4
+    },
+    {
+      "id": "train-p2-s310016-seat0",
+      "policy": 2,
+      "seed": 310016,
+      "seat": 0,
+      "profit": -5
+    },
+    {
+      "id": "train-p2-s310016-seat1",
+      "policy": 2,
+      "seed": 310016,
+      "seat": 1,
+      "profit": 6.5
+    },
+    {
+      "id": "train-p2-s310017-seat0",
+      "policy": 2,
+      "seed": 310017,
+      "seat": 0,
+      "profit": 0
+    },
+    {
+      "id": "train-p2-s310017-seat1",
+      "policy": 2,
+      "seed": 310017,
+      "seat": 1,
+      "profit": 0
+    },
+    {
+      "id": "train-p2-s310018-seat0",
+      "policy": 2,
+      "seed": 310018,
+      "seat": 0,
+      "profit": -1
+    },
+    {
+      "id": "train-p2-s310018-seat1",
+      "policy": 2,
+      "seed": 310018,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p2-s310019-seat0",
+      "policy": 2,
+      "seed": 310019,
+      "seat": 0,
+      "profit": 3.5
+    },
+    {
+      "id": "train-p2-s310019-seat1",
+      "policy": 2,
+      "seed": 310019,
+      "seat": 1,
+      "profit": 2
+    },
+    {
+      "id": "train-p2-s310020-seat0",
+      "policy": 2,
+      "seed": 310020,
+      "seat": 0,
+      "profit": -2
+    },
+    {
+      "id": "train-p2-s310020-seat1",
+      "policy": 2,
+      "seed": 310020,
+      "seat": 1,
+      "profit": 2
+    },
+    {
+      "id": "train-p2-s310021-seat0",
+      "policy": 2,
+      "seed": 310021,
+      "seat": 0,
+      "profit": -3
+    },
+    {
+      "id": "train-p2-s310021-seat1",
+      "policy": 2,
+      "seed": 310021,
+      "seat": 1,
+      "profit": 4
+    },
+    {
+      "id": "train-p2-s310022-seat0",
+      "policy": 2,
+      "seed": 310022,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p2-s310022-seat1",
+      "policy": 2,
+      "seed": 310022,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p2-s310023-seat0",
+      "policy": 2,
+      "seed": 310023,
+      "seat": 0,
+      "profit": 20
+    },
+    {
+      "id": "train-p2-s310023-seat1",
+      "policy": 2,
+      "seed": 310023,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p2-s310024-seat0",
+      "policy": 2,
+      "seed": 310024,
+      "seat": 0,
+      "profit": -2
+    },
+    {
+      "id": "train-p2-s310024-seat1",
+      "policy": 2,
+      "seed": 310024,
+      "seat": 1,
+      "profit": 17
+    },
+    {
+      "id": "train-p2-s310025-seat0",
+      "policy": 2,
+      "seed": 310025,
+      "seat": 0,
+      "profit": -4
+    },
+    {
+      "id": "train-p2-s310025-seat1",
+      "policy": 2,
+      "seed": 310025,
+      "seat": 1,
+      "profit": 9.5
+    },
+    {
+      "id": "train-p2-s310026-seat0",
+      "policy": 2,
+      "seed": 310026,
+      "seat": 0,
+      "profit": 3
+    },
+    {
+      "id": "train-p2-s310026-seat1",
+      "policy": 2,
+      "seed": 310026,
+      "seat": 1,
+      "profit": 5
+    },
+    {
+      "id": "train-p2-s310027-seat0",
+      "policy": 2,
+      "seed": 310027,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p2-s310027-seat1",
+      "policy": 2,
+      "seed": 310027,
+      "seat": 1,
+      "profit": -1
+    },
+    {
+      "id": "train-p2-s310028-seat0",
+      "policy": 2,
+      "seed": 310028,
+      "seat": 0,
+      "profit": 1
+    },
+    {
+      "id": "train-p2-s310028-seat1",
+      "policy": 2,
+      "seed": 310028,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p2-s310029-seat0",
+      "policy": 2,
+      "seed": 310029,
+      "seat": 0,
+      "profit": -2
+    },
+    {
+      "id": "train-p2-s310029-seat1",
+      "policy": 2,
+      "seed": 310029,
+      "seat": 1,
+      "profit": -1
+    },
+    {
+      "id": "train-p2-s310030-seat0",
+      "policy": 2,
+      "seed": 310030,
+      "seat": 0,
+      "profit": -1
+    },
+    {
+      "id": "train-p2-s310030-seat1",
+      "policy": 2,
+      "seed": 310030,
+      "seat": 1,
+      "profit": 3
+    },
+    {
+      "id": "train-p2-s310031-seat0",
+      "policy": 2,
+      "seed": 310031,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p2-s310031-seat1",
+      "policy": 2,
+      "seed": 310031,
+      "seat": 1,
+      "profit": -1
+    },
+    {
+      "id": "train-p2-s310032-seat0",
+      "policy": 2,
+      "seed": 310032,
+      "seat": 0,
+      "profit": 8
+    },
+    {
+      "id": "train-p2-s310032-seat1",
+      "policy": 2,
+      "seed": 310032,
+      "seat": 1,
+      "profit": -1
+    },
+    {
+      "id": "train-p2-s310033-seat0",
+      "policy": 2,
+      "seed": 310033,
+      "seat": 0,
+      "profit": 0
+    },
+    {
+      "id": "train-p2-s310033-seat1",
+      "policy": 2,
+      "seed": 310033,
+      "seat": 1,
+      "profit": 0
+    },
+    {
+      "id": "train-p2-s310034-seat0",
+      "policy": 2,
+      "seed": 310034,
+      "seat": 0,
+      "profit": 3
+    },
+    {
+      "id": "train-p2-s310034-seat1",
+      "policy": 2,
+      "seed": 310034,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p2-s310035-seat0",
+      "policy": 2,
+      "seed": 310035,
+      "seat": 0,
+      "profit": -7
+    },
+    {
+      "id": "train-p2-s310035-seat1",
+      "policy": 2,
+      "seed": 310035,
+      "seat": 1,
+      "profit": 35
+    },
+    {
+      "id": "train-p2-s310036-seat0",
+      "policy": 2,
+      "seed": 310036,
+      "seat": 0,
+      "profit": 2
+    },
+    {
+      "id": "train-p2-s310036-seat1",
+      "policy": 2,
+      "seed": 310036,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p2-s310037-seat0",
+      "policy": 2,
+      "seed": 310037,
+      "seat": 0,
+      "profit": -2
+    },
+    {
+      "id": "train-p2-s310037-seat1",
+      "policy": 2,
+      "seed": 310037,
+      "seat": 1,
+      "profit": 2
+    },
+    {
+      "id": "train-p2-s310038-seat0",
+      "policy": 2,
+      "seed": 310038,
+      "seat": 0,
+      "profit": -1
+    },
+    {
+      "id": "train-p2-s310038-seat1",
+      "policy": 2,
+      "seed": 310038,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p2-s310039-seat0",
+      "policy": 2,
+      "seed": 310039,
+      "seat": 0,
+      "profit": 3
+    },
+    {
+      "id": "train-p2-s310039-seat1",
+      "policy": 2,
+      "seed": 310039,
+      "seat": 1,
+      "profit": -4
+    },
+    {
+      "id": "train-p2-s310040-seat0",
+      "policy": 2,
+      "seed": 310040,
+      "seat": 0,
+      "profit": 20.5
+    },
+    {
+      "id": "train-p2-s310040-seat1",
+      "policy": 2,
+      "seed": 310040,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p2-s310041-seat0",
+      "policy": 2,
+      "seed": 310041,
+      "seat": 0,
+      "profit": 6.5
+    },
+    {
+      "id": "train-p2-s310041-seat1",
+      "policy": 2,
+      "seed": 310041,
+      "seat": 1,
+      "profit": 1
+    },
+    {
+      "id": "train-p2-s310042-seat0",
+      "policy": 2,
+      "seed": 310042,
+      "seat": 0,
+      "profit": 10
+    },
+    {
+      "id": "train-p2-s310042-seat1",
+      "policy": 2,
+      "seed": 310042,
+      "seat": 1,
+      "profit": -14
+    },
+    {
+      "id": "train-p2-s310043-seat0",
+      "policy": 2,
+      "seed": 310043,
+      "seat": 0,
+      "profit": -5
+    },
+    {
+      "id": "train-p2-s310043-seat1",
+      "policy": 2,
+      "seed": 310043,
+      "seat": 1,
+      "profit": -1
+    },
+    {
+      "id": "train-p2-s310044-seat0",
+      "policy": 2,
+      "seed": 310044,
+      "seat": 0,
+      "profit": -1
+    },
+    {
+      "id": "train-p2-s310044-seat1",
+      "policy": 2,
+      "seed": 310044,
+      "seat": 1,
+      "profit": 3
+    },
+    {
+      "id": "train-p2-s310045-seat0",
+      "policy": 2,
+      "seed": 310045,
+      "seat": 0,
+      "profit": 5
+    },
+    {
+      "id": "train-p2-s310045-seat1",
+      "policy": 2,
+      "seed": 310045,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p2-s310046-seat0",
+      "policy": 2,
+      "seed": 310046,
+      "seat": 0,
+      "profit": -4
+    },
+    {
+      "id": "train-p2-s310046-seat1",
+      "policy": 2,
+      "seed": 310046,
+      "seat": 1,
+      "profit": 3
+    },
+    {
+      "id": "train-p2-s310047-seat0",
+      "policy": 2,
+      "seed": 310047,
+      "seat": 0,
+      "profit": 2
+    },
+    {
+      "id": "train-p2-s310047-seat1",
+      "policy": 2,
+      "seed": 310047,
+      "seat": 1,
+      "profit": -4
+    },
+    {
+      "id": "train-p2-s310048-seat0",
+      "policy": 2,
+      "seed": 310048,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p2-s310048-seat1",
+      "policy": 2,
+      "seed": 310048,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p2-s310049-seat0",
+      "policy": 2,
+      "seed": 310049,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p2-s310049-seat1",
+      "policy": 2,
+      "seed": 310049,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p2-s310050-seat0",
+      "policy": 2,
+      "seed": 310050,
+      "seat": 0,
+      "profit": -1
+    },
+    {
+      "id": "train-p2-s310050-seat1",
+      "policy": 2,
+      "seed": 310050,
+      "seat": 1,
+      "profit": 3
+    },
+    {
+      "id": "train-p2-s310051-seat0",
+      "policy": 2,
+      "seed": 310051,
+      "seat": 0,
+      "profit": -1
+    },
+    {
+      "id": "train-p2-s310051-seat1",
+      "policy": 2,
+      "seed": 310051,
+      "seat": 1,
+      "profit": -4
+    },
+    {
+      "id": "train-p2-s310052-seat0",
+      "policy": 2,
+      "seed": 310052,
+      "seat": 0,
+      "profit": 4
+    },
+    {
+      "id": "train-p2-s310052-seat1",
+      "policy": 2,
+      "seed": 310052,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p2-s310053-seat0",
+      "policy": 2,
+      "seed": 310053,
+      "seat": 0,
+      "profit": 5.5
+    },
+    {
+      "id": "train-p2-s310053-seat1",
+      "policy": 2,
+      "seed": 310053,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p2-s310054-seat0",
+      "policy": 2,
+      "seed": 310054,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p2-s310054-seat1",
+      "policy": 2,
+      "seed": 310054,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p2-s310055-seat0",
+      "policy": 2,
+      "seed": 310055,
+      "seat": 0,
+      "profit": -4
+    },
+    {
+      "id": "train-p2-s310055-seat1",
+      "policy": 2,
+      "seed": 310055,
+      "seat": 1,
+      "profit": 1
+    },
+    {
+      "id": "train-p2-s310056-seat0",
+      "policy": 2,
+      "seed": 310056,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p2-s310056-seat1",
+      "policy": 2,
+      "seed": 310056,
+      "seat": 1,
+      "profit": 10.5
+    },
+    {
+      "id": "train-p2-s310057-seat0",
+      "policy": 2,
+      "seed": 310057,
+      "seat": 0,
+      "profit": -5
+    },
+    {
+      "id": "train-p2-s310057-seat1",
+      "policy": 2,
+      "seed": 310057,
+      "seat": 1,
+      "profit": 8.5
+    },
+    {
+      "id": "train-p2-s310058-seat0",
+      "policy": 2,
+      "seed": 310058,
+      "seat": 0,
+      "profit": 5.5
+    },
+    {
+      "id": "train-p2-s310058-seat1",
+      "policy": 2,
+      "seed": 310058,
+      "seat": 1,
+      "profit": -1
+    },
+    {
+      "id": "train-p2-s310059-seat0",
+      "policy": 2,
+      "seed": 310059,
+      "seat": 0,
+      "profit": -3
+    },
+    {
+      "id": "train-p2-s310059-seat1",
+      "policy": 2,
+      "seed": 310059,
+      "seat": 1,
+      "profit": 4
+    },
+    {
+      "id": "train-p2-s310060-seat0",
+      "policy": 2,
+      "seed": 310060,
+      "seat": 0,
+      "profit": 1
+    },
+    {
+      "id": "train-p2-s310060-seat1",
+      "policy": 2,
+      "seed": 310060,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p2-s310061-seat0",
+      "policy": 2,
+      "seed": 310061,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p2-s310061-seat1",
+      "policy": 2,
+      "seed": 310061,
+      "seat": 1,
+      "profit": 4
+    },
+    {
+      "id": "train-p2-s310062-seat0",
+      "policy": 2,
+      "seed": 310062,
+      "seat": 0,
+      "profit": -2
+    },
+    {
+      "id": "train-p2-s310062-seat1",
+      "policy": 2,
+      "seed": 310062,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p2-s310063-seat0",
+      "policy": 2,
+      "seed": 310063,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p2-s310063-seat1",
+      "policy": 2,
+      "seed": 310063,
+      "seat": 1,
+      "profit": -4
+    },
+    {
+      "id": "train-p2-s310064-seat0",
+      "policy": 2,
+      "seed": 310064,
+      "seat": 0,
+      "profit": -4
+    },
+    {
+      "id": "train-p2-s310064-seat1",
+      "policy": 2,
+      "seed": 310064,
+      "seat": 1,
+      "profit": 2
+    },
+    {
+      "id": "train-p3-s310001-seat0",
+      "policy": 3,
+      "seed": 310001,
+      "seat": 0,
+      "profit": -5
+    },
+    {
+      "id": "train-p3-s310001-seat1",
+      "policy": 3,
+      "seed": 310001,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p3-s310002-seat0",
+      "policy": 3,
+      "seed": 310002,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p3-s310002-seat1",
+      "policy": 3,
+      "seed": 310002,
+      "seat": 1,
+      "profit": 100
+    },
+    {
+      "id": "train-p3-s310003-seat0",
+      "policy": 3,
+      "seed": 310003,
+      "seat": 0,
+      "profit": 2
+    },
+    {
+      "id": "train-p3-s310003-seat1",
+      "policy": 3,
+      "seed": 310003,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p3-s310004-seat0",
+      "policy": 3,
+      "seed": 310004,
+      "seat": 0,
+      "profit": -1
+    },
+    {
+      "id": "train-p3-s310004-seat1",
+      "policy": 3,
+      "seed": 310004,
+      "seat": 1,
+      "profit": -4
+    },
+    {
+      "id": "train-p3-s310005-seat0",
+      "policy": 3,
+      "seed": 310005,
+      "seat": 0,
+      "profit": 4
+    },
+    {
+      "id": "train-p3-s310005-seat1",
+      "policy": 3,
+      "seed": 310005,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p3-s310006-seat0",
+      "policy": 3,
+      "seed": 310006,
+      "seat": 0,
+      "profit": 10
+    },
+    {
+      "id": "train-p3-s310006-seat1",
+      "policy": 3,
+      "seed": 310006,
+      "seat": 1,
+      "profit": -4
+    },
+    {
+      "id": "train-p3-s310007-seat0",
+      "policy": 3,
+      "seed": 310007,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p3-s310007-seat1",
+      "policy": 3,
+      "seed": 310007,
+      "seat": 1,
+      "profit": 1
+    },
+    {
+      "id": "train-p3-s310008-seat0",
+      "policy": 3,
+      "seed": 310008,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p3-s310008-seat1",
+      "policy": 3,
+      "seed": 310008,
+      "seat": 1,
+      "profit": 12.5
+    },
+    {
+      "id": "train-p3-s310009-seat0",
+      "policy": 3,
+      "seed": 310009,
+      "seat": 0,
+      "profit": 1
+    },
+    {
+      "id": "train-p3-s310009-seat1",
+      "policy": 3,
+      "seed": 310009,
+      "seat": 1,
+      "profit": 14
+    },
+    {
+      "id": "train-p3-s310010-seat0",
+      "policy": 3,
+      "seed": 310010,
+      "seat": 0,
+      "profit": 17
+    },
+    {
+      "id": "train-p3-s310010-seat1",
+      "policy": 3,
+      "seed": 310010,
+      "seat": 1,
+      "profit": 1
+    },
+    {
+      "id": "train-p3-s310011-seat0",
+      "policy": 3,
+      "seed": 310011,
+      "seat": 0,
+      "profit": -3
+    },
+    {
+      "id": "train-p3-s310011-seat1",
+      "policy": 3,
+      "seed": 310011,
+      "seat": 1,
+      "profit": 5
+    },
+    {
+      "id": "train-p3-s310012-seat0",
+      "policy": 3,
+      "seed": 310012,
+      "seat": 0,
+      "profit": -4
+    },
+    {
+      "id": "train-p3-s310012-seat1",
+      "policy": 3,
+      "seed": 310012,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p3-s310013-seat0",
+      "policy": 3,
+      "seed": 310013,
+      "seat": 0,
+      "profit": 4
+    },
+    {
+      "id": "train-p3-s310013-seat1",
+      "policy": 3,
+      "seed": 310013,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p3-s310014-seat0",
+      "policy": 3,
+      "seed": 310014,
+      "seat": 0,
+      "profit": -3
+    },
+    {
+      "id": "train-p3-s310014-seat1",
+      "policy": 3,
+      "seed": 310014,
+      "seat": 1,
+      "profit": 3
+    },
+    {
+      "id": "train-p3-s310015-seat0",
+      "policy": 3,
+      "seed": 310015,
+      "seat": 0,
+      "profit": -3
+    },
+    {
+      "id": "train-p3-s310015-seat1",
+      "policy": 3,
+      "seed": 310015,
+      "seat": 1,
+      "profit": 4
+    },
+    {
+      "id": "train-p3-s310016-seat0",
+      "policy": 3,
+      "seed": 310016,
+      "seat": 0,
+      "profit": 2
+    },
+    {
+      "id": "train-p3-s310016-seat1",
+      "policy": 3,
+      "seed": 310016,
+      "seat": 1,
+      "profit": 15
+    },
+    {
+      "id": "train-p3-s310017-seat0",
+      "policy": 3,
+      "seed": 310017,
+      "seat": 0,
+      "profit": 0
+    },
+    {
+      "id": "train-p3-s310017-seat1",
+      "policy": 3,
+      "seed": 310017,
+      "seat": 1,
+      "profit": 0
+    },
+    {
+      "id": "train-p3-s310018-seat0",
+      "policy": 3,
+      "seed": 310018,
+      "seat": 0,
+      "profit": 2
+    },
+    {
+      "id": "train-p3-s310018-seat1",
+      "policy": 3,
+      "seed": 310018,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p3-s310019-seat0",
+      "policy": 3,
+      "seed": 310019,
+      "seat": 0,
+      "profit": 14
+    },
+    {
+      "id": "train-p3-s310019-seat1",
+      "policy": 3,
+      "seed": 310019,
+      "seat": 1,
+      "profit": 2
+    },
+    {
+      "id": "train-p3-s310020-seat0",
+      "policy": 3,
+      "seed": 310020,
+      "seat": 0,
+      "profit": -2
+    },
+    {
+      "id": "train-p3-s310020-seat1",
+      "policy": 3,
+      "seed": 310020,
+      "seat": 1,
+      "profit": 4
+    },
+    {
+      "id": "train-p3-s310021-seat0",
+      "policy": 3,
+      "seed": 310021,
+      "seat": 0,
+      "profit": -3
+    },
+    {
+      "id": "train-p3-s310021-seat1",
+      "policy": 3,
+      "seed": 310021,
+      "seat": 1,
+      "profit": 2
+    },
+    {
+      "id": "train-p3-s310022-seat0",
+      "policy": 3,
+      "seed": 310022,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p3-s310022-seat1",
+      "policy": 3,
+      "seed": 310022,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p3-s310023-seat0",
+      "policy": 3,
+      "seed": 310023,
+      "seat": 0,
+      "profit": 100
+    },
+    {
+      "id": "train-p3-s310023-seat1",
+      "policy": 3,
+      "seed": 310023,
+      "seat": 1,
+      "profit": -74
+    },
+    {
+      "id": "train-p3-s310024-seat0",
+      "policy": 3,
+      "seed": 310024,
+      "seat": 0,
+      "profit": -6
+    },
+    {
+      "id": "train-p3-s310024-seat1",
+      "policy": 3,
+      "seed": 310024,
+      "seat": 1,
+      "profit": 92.5
+    },
+    {
+      "id": "train-p3-s310025-seat0",
+      "policy": 3,
+      "seed": 310025,
+      "seat": 0,
+      "profit": -4
+    },
+    {
+      "id": "train-p3-s310025-seat1",
+      "policy": 3,
+      "seed": 310025,
+      "seat": 1,
+      "profit": 100
+    },
+    {
+      "id": "train-p3-s310026-seat0",
+      "policy": 3,
+      "seed": 310026,
+      "seat": 0,
+      "profit": 19
+    },
+    {
+      "id": "train-p3-s310026-seat1",
+      "policy": 3,
+      "seed": 310026,
+      "seat": 1,
+      "profit": 78.5
+    },
+    {
+      "id": "train-p3-s310027-seat0",
+      "policy": 3,
+      "seed": 310027,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p3-s310027-seat1",
+      "policy": 3,
+      "seed": 310027,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p3-s310028-seat0",
+      "policy": 3,
+      "seed": 310028,
+      "seat": 0,
+      "profit": 1
+    },
+    {
+      "id": "train-p3-s310028-seat1",
+      "policy": 3,
+      "seed": 310028,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p3-s310029-seat0",
+      "policy": 3,
+      "seed": 310029,
+      "seat": 0,
+      "profit": -2
+    },
+    {
+      "id": "train-p3-s310029-seat1",
+      "policy": 3,
+      "seed": 310029,
+      "seat": 1,
+      "profit": 2
+    },
+    {
+      "id": "train-p3-s310030-seat0",
+      "policy": 3,
+      "seed": 310030,
+      "seat": 0,
+      "profit": -2
+    },
+    {
+      "id": "train-p3-s310030-seat1",
+      "policy": 3,
+      "seed": 310030,
+      "seat": 1,
+      "profit": 3
+    },
+    {
+      "id": "train-p3-s310031-seat0",
+      "policy": 3,
+      "seed": 310031,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p3-s310031-seat1",
+      "policy": 3,
+      "seed": 310031,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p3-s310032-seat0",
+      "policy": 3,
+      "seed": 310032,
+      "seat": 0,
+      "profit": 2
+    },
+    {
+      "id": "train-p3-s310032-seat1",
+      "policy": 3,
+      "seed": 310032,
+      "seat": 1,
+      "profit": 1
+    },
+    {
+      "id": "train-p3-s310033-seat0",
+      "policy": 3,
+      "seed": 310033,
+      "seat": 0,
+      "profit": 0
+    },
+    {
+      "id": "train-p3-s310033-seat1",
+      "policy": 3,
+      "seed": 310033,
+      "seat": 1,
+      "profit": 0
+    },
+    {
+      "id": "train-p3-s310034-seat0",
+      "policy": 3,
+      "seed": 310034,
+      "seat": 0,
+      "profit": 2
+    },
+    {
+      "id": "train-p3-s310034-seat1",
+      "policy": 3,
+      "seed": 310034,
+      "seat": 1,
+      "profit": -15
+    },
+    {
+      "id": "train-p3-s310035-seat0",
+      "policy": 3,
+      "seed": 310035,
+      "seat": 0,
+      "profit": -11.5
+    },
+    {
+      "id": "train-p3-s310035-seat1",
+      "policy": 3,
+      "seed": 310035,
+      "seat": 1,
+      "profit": 100
+    },
+    {
+      "id": "train-p3-s310036-seat0",
+      "policy": 3,
+      "seed": 310036,
+      "seat": 0,
+      "profit": 2
+    },
+    {
+      "id": "train-p3-s310036-seat1",
+      "policy": 3,
+      "seed": 310036,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p3-s310037-seat0",
+      "policy": 3,
+      "seed": 310037,
+      "seat": 0,
+      "profit": -2
+    },
+    {
+      "id": "train-p3-s310037-seat1",
+      "policy": 3,
+      "seed": 310037,
+      "seat": 1,
+      "profit": 7
+    },
+    {
+      "id": "train-p3-s310038-seat0",
+      "policy": 3,
+      "seed": 310038,
+      "seat": 0,
+      "profit": -2
+    },
+    {
+      "id": "train-p3-s310038-seat1",
+      "policy": 3,
+      "seed": 310038,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p3-s310039-seat0",
+      "policy": 3,
+      "seed": 310039,
+      "seat": 0,
+      "profit": 2
+    },
+    {
+      "id": "train-p3-s310039-seat1",
+      "policy": 3,
+      "seed": 310039,
+      "seat": 1,
+      "profit": -4
+    },
+    {
+      "id": "train-p3-s310040-seat0",
+      "policy": 3,
+      "seed": 310040,
+      "seat": 0,
+      "profit": 100
+    },
+    {
+      "id": "train-p3-s310040-seat1",
+      "policy": 3,
+      "seed": 310040,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p3-s310041-seat0",
+      "policy": 3,
+      "seed": 310041,
+      "seat": 0,
+      "profit": 9.5
+    },
+    {
+      "id": "train-p3-s310041-seat1",
+      "policy": 3,
+      "seed": 310041,
+      "seat": 1,
+      "profit": 100
+    },
+    {
+      "id": "train-p3-s310042-seat0",
+      "policy": 3,
+      "seed": 310042,
+      "seat": 0,
+      "profit": 100
+    },
+    {
+      "id": "train-p3-s310042-seat1",
+      "policy": 3,
+      "seed": 310042,
+      "seat": 1,
+      "profit": -39.5
+    },
+    {
+      "id": "train-p3-s310043-seat0",
+      "policy": 3,
+      "seed": 310043,
+      "seat": 0,
+      "profit": -5
+    },
+    {
+      "id": "train-p3-s310043-seat1",
+      "policy": 3,
+      "seed": 310043,
+      "seat": 1,
+      "profit": 2
+    },
+    {
+      "id": "train-p3-s310044-seat0",
+      "policy": 3,
+      "seed": 310044,
+      "seat": 0,
+      "profit": 1
+    },
+    {
+      "id": "train-p3-s310044-seat1",
+      "policy": 3,
+      "seed": 310044,
+      "seat": 1,
+      "profit": 2
+    },
+    {
+      "id": "train-p3-s310045-seat0",
+      "policy": 3,
+      "seed": 310045,
+      "seat": 0,
+      "profit": 10
+    },
+    {
+      "id": "train-p3-s310045-seat1",
+      "policy": 3,
+      "seed": 310045,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p3-s310046-seat0",
+      "policy": 3,
+      "seed": 310046,
+      "seat": 0,
+      "profit": -4
+    },
+    {
+      "id": "train-p3-s310046-seat1",
+      "policy": 3,
+      "seed": 310046,
+      "seat": 1,
+      "profit": 3
+    },
+    {
+      "id": "train-p3-s310047-seat0",
+      "policy": 3,
+      "seed": 310047,
+      "seat": 0,
+      "profit": 1
+    },
+    {
+      "id": "train-p3-s310047-seat1",
+      "policy": 3,
+      "seed": 310047,
+      "seat": 1,
+      "profit": -100
+    },
+    {
+      "id": "train-p3-s310048-seat0",
+      "policy": 3,
+      "seed": 310048,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p3-s310048-seat1",
+      "policy": 3,
+      "seed": 310048,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p3-s310049-seat0",
+      "policy": 3,
+      "seed": 310049,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p3-s310049-seat1",
+      "policy": 3,
+      "seed": 310049,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p3-s310050-seat0",
+      "policy": 3,
+      "seed": 310050,
+      "seat": 0,
+      "profit": -2
+    },
+    {
+      "id": "train-p3-s310050-seat1",
+      "policy": 3,
+      "seed": 310050,
+      "seat": 1,
+      "profit": 3
+    },
+    {
+      "id": "train-p3-s310051-seat0",
+      "policy": 3,
+      "seed": 310051,
+      "seat": 0,
+      "profit": 6
+    },
+    {
+      "id": "train-p3-s310051-seat1",
+      "policy": 3,
+      "seed": 310051,
+      "seat": 1,
+      "profit": -4
+    },
+    {
+      "id": "train-p3-s310052-seat0",
+      "policy": 3,
+      "seed": 310052,
+      "seat": 0,
+      "profit": 2
+    },
+    {
+      "id": "train-p3-s310052-seat1",
+      "policy": 3,
+      "seed": 310052,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p3-s310053-seat0",
+      "policy": 3,
+      "seed": 310053,
+      "seat": 0,
+      "profit": 8.5
+    },
+    {
+      "id": "train-p3-s310053-seat1",
+      "policy": 3,
+      "seed": 310053,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p3-s310054-seat0",
+      "policy": 3,
+      "seed": 310054,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p3-s310054-seat1",
+      "policy": 3,
+      "seed": 310054,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p3-s310055-seat0",
+      "policy": 3,
+      "seed": 310055,
+      "seat": 0,
+      "profit": 5
+    },
+    {
+      "id": "train-p3-s310055-seat1",
+      "policy": 3,
+      "seed": 310055,
+      "seat": 1,
+      "profit": 8.5
+    },
+    {
+      "id": "train-p3-s310056-seat0",
+      "policy": 3,
+      "seed": 310056,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p3-s310056-seat1",
+      "policy": 3,
+      "seed": 310056,
+      "seat": 1,
+      "profit": 67.5
+    },
+    {
+      "id": "train-p3-s310057-seat0",
+      "policy": 3,
+      "seed": 310057,
+      "seat": 0,
+      "profit": 10
+    },
+    {
+      "id": "train-p3-s310057-seat1",
+      "policy": 3,
+      "seed": 310057,
+      "seat": 1,
+      "profit": 42
+    },
+    {
+      "id": "train-p3-s310058-seat0",
+      "policy": 3,
+      "seed": 310058,
+      "seat": 0,
+      "profit": 27
+    },
+    {
+      "id": "train-p3-s310058-seat1",
+      "policy": 3,
+      "seed": 310058,
+      "seat": 1,
+      "profit": -1
+    },
+    {
+      "id": "train-p3-s310059-seat0",
+      "policy": 3,
+      "seed": 310059,
+      "seat": 0,
+      "profit": 1
+    },
+    {
+      "id": "train-p3-s310059-seat1",
+      "policy": 3,
+      "seed": 310059,
+      "seat": 1,
+      "profit": 4
+    },
+    {
+      "id": "train-p3-s310060-seat0",
+      "policy": 3,
+      "seed": 310060,
+      "seat": 0,
+      "profit": 5
+    },
+    {
+      "id": "train-p3-s310060-seat1",
+      "policy": 3,
+      "seed": 310060,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p3-s310061-seat0",
+      "policy": 3,
+      "seed": 310061,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p3-s310061-seat1",
+      "policy": 3,
+      "seed": 310061,
+      "seat": 1,
+      "profit": 6
+    },
+    {
+      "id": "train-p3-s310062-seat0",
+      "policy": 3,
+      "seed": 310062,
+      "seat": 0,
+      "profit": -2
+    },
+    {
+      "id": "train-p3-s310062-seat1",
+      "policy": 3,
+      "seed": 310062,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p3-s310063-seat0",
+      "policy": 3,
+      "seed": 310063,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p3-s310063-seat1",
+      "policy": 3,
+      "seed": 310063,
+      "seat": 1,
+      "profit": -4
+    },
+    {
+      "id": "train-p3-s310064-seat0",
+      "policy": 3,
+      "seed": 310064,
+      "seat": 0,
+      "profit": -4
+    },
+    {
+      "id": "train-p3-s310064-seat1",
+      "policy": 3,
+      "seed": 310064,
+      "seat": 1,
+      "profit": 3
+    },
+    {
+      "id": "train-p4-s310001-seat0",
+      "policy": 4,
+      "seed": 310001,
+      "seat": 0,
+      "profit": -5
+    },
+    {
+      "id": "train-p4-s310001-seat1",
+      "policy": 4,
+      "seed": 310001,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p4-s310002-seat0",
+      "policy": 4,
+      "seed": 310002,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p4-s310002-seat1",
+      "policy": 4,
+      "seed": 310002,
+      "seat": 1,
+      "profit": 100
+    },
+    {
+      "id": "train-p4-s310003-seat0",
+      "policy": 4,
+      "seed": 310003,
+      "seat": 0,
+      "profit": 4
+    },
+    {
+      "id": "train-p4-s310003-seat1",
+      "policy": 4,
+      "seed": 310003,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p4-s310004-seat0",
+      "policy": 4,
+      "seed": 310004,
+      "seat": 0,
+      "profit": -1
+    },
+    {
+      "id": "train-p4-s310004-seat1",
+      "policy": 4,
+      "seed": 310004,
+      "seat": 1,
+      "profit": -4
+    },
+    {
+      "id": "train-p4-s310005-seat0",
+      "policy": 4,
+      "seed": 310005,
+      "seat": 0,
+      "profit": 4
+    },
+    {
+      "id": "train-p4-s310005-seat1",
+      "policy": 4,
+      "seed": 310005,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p4-s310006-seat0",
+      "policy": 4,
+      "seed": 310006,
+      "seat": 0,
+      "profit": 14
+    },
+    {
+      "id": "train-p4-s310006-seat1",
+      "policy": 4,
+      "seed": 310006,
+      "seat": 1,
+      "profit": -4
+    },
+    {
+      "id": "train-p4-s310007-seat0",
+      "policy": 4,
+      "seed": 310007,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p4-s310007-seat1",
+      "policy": 4,
+      "seed": 310007,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p4-s310008-seat0",
+      "policy": 4,
+      "seed": 310008,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p4-s310008-seat1",
+      "policy": 4,
+      "seed": 310008,
+      "seat": 1,
+      "profit": 3
+    },
+    {
+      "id": "train-p4-s310009-seat0",
+      "policy": 4,
+      "seed": 310009,
+      "seat": 0,
+      "profit": 1
+    },
+    {
+      "id": "train-p4-s310009-seat1",
+      "policy": 4,
+      "seed": 310009,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p4-s310010-seat0",
+      "policy": 4,
+      "seed": 310010,
+      "seat": 0,
+      "profit": -3
+    },
+    {
+      "id": "train-p4-s310010-seat1",
+      "policy": 4,
+      "seed": 310010,
+      "seat": 1,
+      "profit": 1
+    },
+    {
+      "id": "train-p4-s310011-seat0",
+      "policy": 4,
+      "seed": 310011,
+      "seat": 0,
+      "profit": -3
+    },
+    {
+      "id": "train-p4-s310011-seat1",
+      "policy": 4,
+      "seed": 310011,
+      "seat": 1,
+      "profit": 3
+    },
+    {
+      "id": "train-p4-s310012-seat0",
+      "policy": 4,
+      "seed": 310012,
+      "seat": 0,
+      "profit": -3
+    },
+    {
+      "id": "train-p4-s310012-seat1",
+      "policy": 4,
+      "seed": 310012,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p4-s310013-seat0",
+      "policy": 4,
+      "seed": 310013,
+      "seat": 0,
+      "profit": -1
+    },
+    {
+      "id": "train-p4-s310013-seat1",
+      "policy": 4,
+      "seed": 310013,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p4-s310014-seat0",
+      "policy": 4,
+      "seed": 310014,
+      "seat": 0,
+      "profit": -3
+    },
+    {
+      "id": "train-p4-s310014-seat1",
+      "policy": 4,
+      "seed": 310014,
+      "seat": 1,
+      "profit": 4
+    },
+    {
+      "id": "train-p4-s310015-seat0",
+      "policy": 4,
+      "seed": 310015,
+      "seat": 0,
+      "profit": -3
+    },
+    {
+      "id": "train-p4-s310015-seat1",
+      "policy": 4,
+      "seed": 310015,
+      "seat": 1,
+      "profit": 4
+    },
+    {
+      "id": "train-p4-s310016-seat0",
+      "policy": 4,
+      "seed": 310016,
+      "seat": 0,
+      "profit": -5
+    },
+    {
+      "id": "train-p4-s310016-seat1",
+      "policy": 4,
+      "seed": 310016,
+      "seat": 1,
+      "profit": 35
+    },
+    {
+      "id": "train-p4-s310017-seat0",
+      "policy": 4,
+      "seed": 310017,
+      "seat": 0,
+      "profit": 0
+    },
+    {
+      "id": "train-p4-s310017-seat1",
+      "policy": 4,
+      "seed": 310017,
+      "seat": 1,
+      "profit": 0
+    },
+    {
+      "id": "train-p4-s310018-seat0",
+      "policy": 4,
+      "seed": 310018,
+      "seat": 0,
+      "profit": 2
+    },
+    {
+      "id": "train-p4-s310018-seat1",
+      "policy": 4,
+      "seed": 310018,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p4-s310019-seat0",
+      "policy": 4,
+      "seed": 310019,
+      "seat": 0,
+      "profit": 2
+    },
+    {
+      "id": "train-p4-s310019-seat1",
+      "policy": 4,
+      "seed": 310019,
+      "seat": 1,
+      "profit": 2
+    },
+    {
+      "id": "train-p4-s310020-seat0",
+      "policy": 4,
+      "seed": 310020,
+      "seat": 0,
+      "profit": -2
+    },
+    {
+      "id": "train-p4-s310020-seat1",
+      "policy": 4,
+      "seed": 310020,
+      "seat": 1,
+      "profit": 2
+    },
+    {
+      "id": "train-p4-s310021-seat0",
+      "policy": 4,
+      "seed": 310021,
+      "seat": 0,
+      "profit": -3
+    },
+    {
+      "id": "train-p4-s310021-seat1",
+      "policy": 4,
+      "seed": 310021,
+      "seat": 1,
+      "profit": 4
+    },
+    {
+      "id": "train-p4-s310022-seat0",
+      "policy": 4,
+      "seed": 310022,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p4-s310022-seat1",
+      "policy": 4,
+      "seed": 310022,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p4-s310023-seat0",
+      "policy": 4,
+      "seed": 310023,
+      "seat": 0,
+      "profit": 100
+    },
+    {
+      "id": "train-p4-s310023-seat1",
+      "policy": 4,
+      "seed": 310023,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p4-s310024-seat0",
+      "policy": 4,
+      "seed": 310024,
+      "seat": 0,
+      "profit": -2
+    },
+    {
+      "id": "train-p4-s310024-seat1",
+      "policy": 4,
+      "seed": 310024,
+      "seat": 1,
+      "profit": 82
+    },
+    {
+      "id": "train-p4-s310025-seat0",
+      "policy": 4,
+      "seed": 310025,
+      "seat": 0,
+      "profit": -4
+    },
+    {
+      "id": "train-p4-s310025-seat1",
+      "policy": 4,
+      "seed": 310025,
+      "seat": 1,
+      "profit": 4
+    },
+    {
+      "id": "train-p4-s310026-seat0",
+      "policy": 4,
+      "seed": 310026,
+      "seat": 0,
+      "profit": 3
+    },
+    {
+      "id": "train-p4-s310026-seat1",
+      "policy": 4,
+      "seed": 310026,
+      "seat": 1,
+      "profit": -4
+    },
+    {
+      "id": "train-p4-s310027-seat0",
+      "policy": 4,
+      "seed": 310027,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p4-s310027-seat1",
+      "policy": 4,
+      "seed": 310027,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p4-s310028-seat0",
+      "policy": 4,
+      "seed": 310028,
+      "seat": 0,
+      "profit": 1
+    },
+    {
+      "id": "train-p4-s310028-seat1",
+      "policy": 4,
+      "seed": 310028,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p4-s310029-seat0",
+      "policy": 4,
+      "seed": 310029,
+      "seat": 0,
+      "profit": -2
+    },
+    {
+      "id": "train-p4-s310029-seat1",
+      "policy": 4,
+      "seed": 310029,
+      "seat": 1,
+      "profit": -1
+    },
+    {
+      "id": "train-p4-s310030-seat0",
+      "policy": 4,
+      "seed": 310030,
+      "seat": 0,
+      "profit": -1
+    },
+    {
+      "id": "train-p4-s310030-seat1",
+      "policy": 4,
+      "seed": 310030,
+      "seat": 1,
+      "profit": 3
+    },
+    {
+      "id": "train-p4-s310031-seat0",
+      "policy": 4,
+      "seed": 310031,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p4-s310031-seat1",
+      "policy": 4,
+      "seed": 310031,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p4-s310032-seat0",
+      "policy": 4,
+      "seed": 310032,
+      "seat": 0,
+      "profit": 3
+    },
+    {
+      "id": "train-p4-s310032-seat1",
+      "policy": 4,
+      "seed": 310032,
+      "seat": 1,
+      "profit": -1
+    },
+    {
+      "id": "train-p4-s310033-seat0",
+      "policy": 4,
+      "seed": 310033,
+      "seat": 0,
+      "profit": 0
+    },
+    {
+      "id": "train-p4-s310033-seat1",
+      "policy": 4,
+      "seed": 310033,
+      "seat": 1,
+      "profit": 0
+    },
+    {
+      "id": "train-p4-s310034-seat0",
+      "policy": 4,
+      "seed": 310034,
+      "seat": 0,
+      "profit": 5
+    },
+    {
+      "id": "train-p4-s310034-seat1",
+      "policy": 4,
+      "seed": 310034,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p4-s310035-seat0",
+      "policy": 4,
+      "seed": 310035,
+      "seat": 0,
+      "profit": -4
+    },
+    {
+      "id": "train-p4-s310035-seat1",
+      "policy": 4,
+      "seed": 310035,
+      "seat": 1,
+      "profit": 3
+    },
+    {
+      "id": "train-p4-s310036-seat0",
+      "policy": 4,
+      "seed": 310036,
+      "seat": 0,
+      "profit": 2
+    },
+    {
+      "id": "train-p4-s310036-seat1",
+      "policy": 4,
+      "seed": 310036,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p4-s310037-seat0",
+      "policy": 4,
+      "seed": 310037,
+      "seat": 0,
+      "profit": -2
+    },
+    {
+      "id": "train-p4-s310037-seat1",
+      "policy": 4,
+      "seed": 310037,
+      "seat": 1,
+      "profit": 2
+    },
+    {
+      "id": "train-p4-s310038-seat0",
+      "policy": 4,
+      "seed": 310038,
+      "seat": 0,
+      "profit": -2
+    },
+    {
+      "id": "train-p4-s310038-seat1",
+      "policy": 4,
+      "seed": 310038,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p4-s310039-seat0",
+      "policy": 4,
+      "seed": 310039,
+      "seat": 0,
+      "profit": 3
+    },
+    {
+      "id": "train-p4-s310039-seat1",
+      "policy": 4,
+      "seed": 310039,
+      "seat": 1,
+      "profit": -4
+    },
+    {
+      "id": "train-p4-s310040-seat0",
+      "policy": 4,
+      "seed": 310040,
+      "seat": 0,
+      "profit": 41
+    },
+    {
+      "id": "train-p4-s310040-seat1",
+      "policy": 4,
+      "seed": 310040,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p4-s310041-seat0",
+      "policy": 4,
+      "seed": 310041,
+      "seat": 0,
+      "profit": -4
+    },
+    {
+      "id": "train-p4-s310041-seat1",
+      "policy": 4,
+      "seed": 310041,
+      "seat": 1,
+      "profit": 1
+    },
+    {
+      "id": "train-p4-s310042-seat0",
+      "policy": 4,
+      "seed": 310042,
+      "seat": 0,
+      "profit": 4
+    },
+    {
+      "id": "train-p4-s310042-seat1",
+      "policy": 4,
+      "seed": 310042,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p4-s310043-seat0",
+      "policy": 4,
+      "seed": 310043,
+      "seat": 0,
+      "profit": -5
+    },
+    {
+      "id": "train-p4-s310043-seat1",
+      "policy": 4,
+      "seed": 310043,
+      "seat": 1,
+      "profit": -1
+    },
+    {
+      "id": "train-p4-s310044-seat0",
+      "policy": 4,
+      "seed": 310044,
+      "seat": 0,
+      "profit": -1
+    },
+    {
+      "id": "train-p4-s310044-seat1",
+      "policy": 4,
+      "seed": 310044,
+      "seat": 1,
+      "profit": 3
+    },
+    {
+      "id": "train-p4-s310045-seat0",
+      "policy": 4,
+      "seed": 310045,
+      "seat": 0,
+      "profit": 3
+    },
+    {
+      "id": "train-p4-s310045-seat1",
+      "policy": 4,
+      "seed": 310045,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p4-s310046-seat0",
+      "policy": 4,
+      "seed": 310046,
+      "seat": 0,
+      "profit": -4
+    },
+    {
+      "id": "train-p4-s310046-seat1",
+      "policy": 4,
+      "seed": 310046,
+      "seat": 1,
+      "profit": 3
+    },
+    {
+      "id": "train-p4-s310047-seat0",
+      "policy": 4,
+      "seed": 310047,
+      "seat": 0,
+      "profit": 2
+    },
+    {
+      "id": "train-p4-s310047-seat1",
+      "policy": 4,
+      "seed": 310047,
+      "seat": 1,
+      "profit": -4
+    },
+    {
+      "id": "train-p4-s310048-seat0",
+      "policy": 4,
+      "seed": 310048,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p4-s310048-seat1",
+      "policy": 4,
+      "seed": 310048,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p4-s310049-seat0",
+      "policy": 4,
+      "seed": 310049,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p4-s310049-seat1",
+      "policy": 4,
+      "seed": 310049,
+      "seat": 1,
+      "profit": -3
+    },
+    {
+      "id": "train-p4-s310050-seat0",
+      "policy": 4,
+      "seed": 310050,
+      "seat": 0,
+      "profit": -2
+    },
+    {
+      "id": "train-p4-s310050-seat1",
+      "policy": 4,
+      "seed": 310050,
+      "seat": 1,
+      "profit": 3
+    },
+    {
+      "id": "train-p4-s310051-seat0",
+      "policy": 4,
+      "seed": 310051,
+      "seat": 0,
+      "profit": 2
+    },
+    {
+      "id": "train-p4-s310051-seat1",
+      "policy": 4,
+      "seed": 310051,
+      "seat": 1,
+      "profit": -4
+    },
+    {
+      "id": "train-p4-s310052-seat0",
+      "policy": 4,
+      "seed": 310052,
+      "seat": 0,
+      "profit": 4
+    },
+    {
+      "id": "train-p4-s310052-seat1",
+      "policy": 4,
+      "seed": 310052,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p4-s310053-seat0",
+      "policy": 4,
+      "seed": 310053,
+      "seat": 0,
+      "profit": 4
+    },
+    {
+      "id": "train-p4-s310053-seat1",
+      "policy": 4,
+      "seed": 310053,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p4-s310054-seat0",
+      "policy": 4,
+      "seed": 310054,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p4-s310054-seat1",
+      "policy": 4,
+      "seed": 310054,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p4-s310055-seat0",
+      "policy": 4,
+      "seed": 310055,
+      "seat": 0,
+      "profit": -4
+    },
+    {
+      "id": "train-p4-s310055-seat1",
+      "policy": 4,
+      "seed": 310055,
+      "seat": 1,
+      "profit": 1
+    },
+    {
+      "id": "train-p4-s310056-seat0",
+      "policy": 4,
+      "seed": 310056,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p4-s310056-seat1",
+      "policy": 4,
+      "seed": 310056,
+      "seat": 1,
+      "profit": 1
+    },
+    {
+      "id": "train-p4-s310057-seat0",
+      "policy": 4,
+      "seed": 310057,
+      "seat": 0,
+      "profit": -5
+    },
+    {
+      "id": "train-p4-s310057-seat1",
+      "policy": 4,
+      "seed": 310057,
+      "seat": 1,
+      "profit": 17
+    },
+    {
+      "id": "train-p4-s310058-seat0",
+      "policy": 4,
+      "seed": 310058,
+      "seat": 0,
+      "profit": 3
+    },
+    {
+      "id": "train-p4-s310058-seat1",
+      "policy": 4,
+      "seed": 310058,
+      "seat": 1,
+      "profit": -1
+    },
+    {
+      "id": "train-p4-s310059-seat0",
+      "policy": 4,
+      "seed": 310059,
+      "seat": 0,
+      "profit": -3
+    },
+    {
+      "id": "train-p4-s310059-seat1",
+      "policy": 4,
+      "seed": 310059,
+      "seat": 1,
+      "profit": 4
+    },
+    {
+      "id": "train-p4-s310060-seat0",
+      "policy": 4,
+      "seed": 310060,
+      "seat": 0,
+      "profit": 1
+    },
+    {
+      "id": "train-p4-s310060-seat1",
+      "policy": 4,
+      "seed": 310060,
+      "seat": 1,
+      "profit": -2
+    },
+    {
+      "id": "train-p4-s310061-seat0",
+      "policy": 4,
+      "seed": 310061,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p4-s310061-seat1",
+      "policy": 4,
+      "seed": 310061,
+      "seat": 1,
+      "profit": 4
+    },
+    {
+      "id": "train-p4-s310062-seat0",
+      "policy": 4,
+      "seed": 310062,
+      "seat": 0,
+      "profit": -2
+    },
+    {
+      "id": "train-p4-s310062-seat1",
+      "policy": 4,
+      "seed": 310062,
+      "seat": 1,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p4-s310063-seat0",
+      "policy": 4,
+      "seed": 310063,
+      "seat": 0,
+      "profit": 0.5
+    },
+    {
+      "id": "train-p4-s310063-seat1",
+      "policy": 4,
+      "seed": 310063,
+      "seat": 1,
+      "profit": -4
+    },
+    {
+      "id": "train-p4-s310064-seat0",
+      "policy": 4,
+      "seed": 310064,
+      "seat": 0,
+      "profit": -4
+    },
+    {
+      "id": "train-p4-s310064-seat1",
+      "policy": 4,
+      "seed": 310064,
+      "seat": 1,
+      "profit": 1
+    }
+  ],
+  "limitations": [
+    "One seeded random novice opponent only. No strong-player or GTO claim.",
+    "60 equity rollouts per decision. Finite training grid and limited seed count.",
+    "Normal approximation confidence interval over paired seed clusters, not an exact inference.",
+    "Standalone bounded experiment only; existing presentation/browser is not connected to this policy.",
+    "RVF SDK metadata unsupported; human-readable policy config and receipt outside RVF. Numeric training experiences and selected policy ID in real RVF."
+  ]
+}

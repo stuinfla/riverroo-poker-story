@@ -1,0 +1,19 @@
+{
+  "name": "riverroo-full",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:engine": "node --test engine.test.mjs",
+    "build:engine": "esbuild engine.mjs --bundle --platform=browser --format=esm --outfile=receipts/engine.browser.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@jev-poker/engine": "^0.2.1",
+    "@ruvector/rvf": "^0.3.4",
+    "esbuild": "^0.28.2"
+  }
+}
